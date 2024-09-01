@@ -1,0 +1,358 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='WolframDesktop 14.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       161,          7]
+NotebookDataLength[     13180,        350]
+NotebookOptionsPosition[      9194,        278]
+NotebookOutlinePosition[      9591,        294]
+CellTagsIndexPosition[      9548,        291]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["WELP Project Proposal Template", "Title",
+ CellChangeTimes->{{3.932640383188323*^9, 
+  3.932640390089926*^9}},ExpressionUUID->"89200b18-f8af-450f-a844-\
+026dbdea0c05"],
+
+Cell["\<\
+Note for WELP:U Students - as you are doing this project individually, you \
+can simply ignore references to groups when filling this out.\
+\>", "Text",
+ CellChangeTimes->{{3.932640392555743*^9, 
+  3.932640427568779*^9}},ExpressionUUID->"7f08a4a5-6eab-4599-917e-\
+aebc910bff6d"],
+
+Cell[TextData[{
+ "Please save this notebook with the filename WELP24 Project Proposal - Group \
+# (or - Name for WELP:U) and put it in the ",
+ ButtonBox["Project Proposal Submissions folder ",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://drive.google.com/drive/folders/14fa9Ye42abVuO8K_n3noDULPyswC-\
+wmS?usp=drive_link"], None},
+  ButtonNote->
+   "https://drive.google.com/drive/folders/14fa9Ye42abVuO8K_n3noDULPyswC-wmS?\
+usp=drive_link"]
+}], "Subsubsection",
+ CellChangeTimes->{{3.932641166173828*^9, 3.932641211552463*^9}, {
+  3.932829607238592*^9, 
+  3.93282963953585*^9}},ExpressionUUID->"340e4c11-fddc-4442-a0c7-\
+9a2b79ace5e7"],
+
+Cell[CellGroupData[{
+
+Cell["Proj-Group-#4", "Section",
+ CellChangeTimes->{{3.932641093984117*^9, 3.932641096529719*^9}, {
+   3.932641138417893*^9, 3.932641159113504*^9}, 
+   3.933332993113533*^9},ExpressionUUID->"3f0fd436-46c6-418a-bd0c-\
+4fd18beb1c9f"],
+
+Cell["Anoushka Muchhal", "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.932641104805327*^9}, {
+  3.9333334281677723`*^9, 
+  3.933333429961409*^9}},ExpressionUUID->"7a05d5dd-fd01-4cdc-a978-\
+dea6221a509c"],
+
+Cell["Gloria Chan", "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.932641105717078*^9}, {
+  3.9333334317322397`*^9, 
+  3.933333437220481*^9}},ExpressionUUID->"b1df6ac2-3e40-4722-9e66-\
+4f3c901dd3b7"],
+
+Cell["Claire Bian", "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.9326411076271563`*^9}, {
+  3.933333445628405*^9, 
+  3.933333449617206*^9}},ExpressionUUID->"5c8cb775-116e-47fe-a603-\
+0db560ce3d6b"],
+
+Cell[TextData[StyleBox["Mentor: Dugan",
+ FontWeight->"Bold"]], "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.9326411291050644`*^9}, {
+  3.933333455812413*^9, 
+  3.933333458973304*^9}},ExpressionUUID->"174bde7f-8271-4b41-9155-\
+24e9d3252669"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Project Title: Analyzing Walkable Cities", "Section",
+ CellChangeTimes->{{3.932640430745486*^9, 3.932640454781645*^9}, {
+  3.933333681933176*^9, 
+  3.933333684153854*^9}},ExpressionUUID->"9ff44e61-1234-4369-a96f-\
+685b19cb4dce"],
+
+Cell[CellGroupData[{
+
+Cell["The Problem", "Subsection",
+ CellChangeTimes->{{3.9326405424095573`*^9, 3.932640546337922*^9}, {
+  3.9333336860394173`*^9, 
+  3.933333693355221*^9}},ExpressionUUID->"2d633ecd-11f7-4667-af10-\
+affc244dd073"],
+
+Cell["\<\
+Many cities in the US are not walkable, meaning people need cars to get \
+around. Walkable cities are important because they lead to a lesser \
+dependency on cars, meaning that the environment is helped and people can \
+save money on travel. Along with this, it encourages \
+\>", "Text",
+ CellChangeTimes->{{3.9333337523446293`*^9, 3.933333754734345*^9}, {
+  3.933333791759495*^9, 3.933333808264443*^9}, {3.9333338568830423`*^9, 
+  3.933333860129608*^9}, {3.933333915774365*^9, 3.933333927540081*^9}, {
+  3.9333340578482847`*^9, 
+  3.933334108576364*^9}},ExpressionUUID->"bcc05137-809f-41d3-a0fa-\
+850b979a3d82"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["How you plan to solve it", "Subsection",
+ CellChangeTimes->{{3.932640553940339*^9, 
+  3.932640558345264*^9}},ExpressionUUID->"dbc99c96-ffab-4bf6-bf49-\
+fd885fd8f33f"],
+
+Cell["\<\
+Creating a program that determines \[OpenCurlyDoubleQuote]how walkable\
+\[CloseCurlyDoubleQuote] cities are, how to improve them, and that creates \
+plans for cities / towns that are walkable given a population and size.\
+\>", "Text",
+ CellChangeTimes->{{3.933333946154187*^9, 3.9333339645928*^9}, {
+  3.933334015037739*^9, 
+  3.933334054179282*^9}},ExpressionUUID->"95a5b8ba-c458-42a5-a190-\
+eb06e4e66a71"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Why is this a good fit for you/your team?", "Subsection",
+ CellChangeTimes->{{3.932640560505062*^9, 
+  3.932640568409265*^9}},ExpressionUUID->"11587d63-f329-4a0d-8997-\
+4712cabf95c2"],
+
+Cell["\<\
+This is a good fit for our team because we want to be able to walk around our \
+towns, and ya\
+\>", "Text",
+ CellChangeTimes->{{3.933334166645553*^9, 
+  3.9333341971620293`*^9}},ExpressionUUID->"bdcbeb44-8b99-4de5-af83-\
+cdfdb5a9c612"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["What data do you need?", "Subsection",
+ CellChangeTimes->{{3.932640589168119*^9, 
+  3.93264059989354*^9}},ExpressionUUID->"e45b968e-6137-430f-a692-\
+80a960439f1c"],
+
+Cell["we will be using the built in open street map data", "Item",
+ CellChangeTimes->{{3.93264060127557*^9, 3.932640667131102*^9}, {
+  3.933334211889743*^9, 
+  3.933334223123549*^9}},ExpressionUUID->"50a15e06-d75e-4737-b525-\
+2b0c1d788ca2"]
+}, Open  ]],
+
+Cell["Do you have any code showing your project is viable?", "Subsection",
+ CellChangeTimes->{{3.932640743239826*^9, 
+  3.932640755317156*^9}},ExpressionUUID->"6b2e4664-36c6-4eea-bdb2-\
+97e309ebc1b1"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Planning", "Section",
+ CellChangeTimes->{{3.932640582056075*^9, 
+  3.932640584311747*^9}},ExpressionUUID->"cbcf1fa1-753f-4d58-acd7-\
+edd5fd895867"],
+
+Cell[CellGroupData[{
+
+Cell["When will you meet with your group? How often? For how long?", \
+"Subsection",
+ CellChangeTimes->{{3.932640682993993*^9, 
+  3.932640698729663*^9}},ExpressionUUID->"2a3517cd-411b-4db4-86fb-\
+3a145b441e94"],
+
+Cell["On Sundays", "Item",
+ CellChangeTimes->{{3.9326409647334123`*^9, 3.93264097261019*^9}, {
+  3.93264106438093*^9, 3.932641065860541*^9}, {3.933334389022406*^9, 
+  3.933334393199439*^9}},ExpressionUUID->"515588c6-f9c1-4f2c-ad91-\
+eeff0900dfaa"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Where are you keeping your task list?", "Subsection",
+ CellChangeTimes->{{3.932640704794647*^9, 
+  3.932640712913102*^9}},ExpressionUUID->"565926e7-62a7-4896-b38a-\
+997f36992a11"],
+
+Cell["https://trello.com/b/I7VMEhkV/welp-2024", "Item",
+ CellChangeTimes->{{3.9326407146981072`*^9, 3.932640722207868*^9}, 
+   3.933334361652288*^9},ExpressionUUID->"f097a5c8-f60f-482e-a2e9-\
+bf047c853e1f"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Outline your Sprints (recommended 3-6)", "Subsection",
+ CellChangeTimes->{{3.932640766665433*^9, 3.932640774724964*^9}, {
+  3.932640806115765*^9, 3.932640821610325*^9}, {3.932640867919759*^9, 
+  3.932640905806188*^9}},ExpressionUUID->"79367e24-8a54-47b4-97a7-\
+49f72ff887ba"],
+
+Cell[CellGroupData[{
+
+Cell["Sprint 1", "Subsubsection",
+ CellChangeTimes->{{3.932640777015089*^9, 
+  3.932640779476591*^9}},ExpressionUUID->"086fcb2c-1fac-4fbd-876b-\
+b5b2515996fe"],
+
+Cell["Dates", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.9326408287651653`*^9}, {
+  3.9326408845119143`*^9, 
+  3.932640889630341*^9}},ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-\
+22c87c11c130"],
+
+Cell["Goals", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 
+  3.9326408287651653`*^9}},ExpressionUUID->"06edd733-bb81-4c82-84ef-\
+83263877d054"],
+
+Cell["How will you judge if you\[CloseCurlyQuote]ve accomplished the goals?", \
+"Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 
+  3.932640917871393*^9}},ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-\
+cdd57a326552"],
+
+Cell["Who is responsible for what?", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 
+  3.932640924125202*^9}},ExpressionUUID->"3d567ec8-b520-45b0-a847-\
+0069d05f1c5d"]
+}, Open  ]],
+
+Cell["Sprint 2", "Subsubsection",
+ CellChangeTimes->{{3.932640777015089*^9, 
+  3.932640789060409*^9}},ExpressionUUID->"3cfba3fa-766d-4f11-98b0-\
+6bd03209640c"],
+
+Cell["Sprint 3", "Subsubsection",
+ CellChangeTimes->{{3.932640777015089*^9, 
+  3.9326407924521923`*^9}},ExpressionUUID->"db8c80f1-b5df-4281-b017-\
+b2641b307708"],
+
+Cell["Sprint 4", "Subsubsection",
+ CellChangeTimes->{{3.932640777015089*^9, 
+  3.932640793732336*^9}},ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-\
+d5d0607e8c97"],
+
+Cell["Sprint 5", "Subsubsection",
+ CellChangeTimes->{{3.932640777015089*^9, 
+  3.932640795348504*^9}},ExpressionUUID->"1d31dc94-4f7d-4d12-a614-\
+7249739a119b"],
+
+Cell["Sprint 6", "Subsubsection",
+ CellChangeTimes->{{3.932640777015089*^9, 
+  3.9326407970192432`*^9}},ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-\
+a752f50023c4"]
+}, Open  ]],
+
+Cell["", "Subsection",
+ CellChangeTimes->{{3.932640732895527*^9, 
+  3.932640733391326*^9}},ExpressionUUID->"f822194b-66f2-42a1-a446-\
+9e39ec36aed1"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1323, 911},
+WindowMargins->{{Automatic, 45}, {1, Automatic}},
+FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 16, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"11fda7a0-779c-4805-8b0c-49c80c077c53"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[583, 22, 173, 3, 98, "Title",ExpressionUUID->"89200b18-f8af-450f-a844-026dbdea0c05"],
+Cell[759, 27, 288, 6, 35, "Text",ExpressionUUID->"7f08a4a5-6eab-4599-917e-aebc910bff6d"],
+Cell[1050, 35, 649, 15, 71, "Subsubsection",ExpressionUUID->"340e4c11-fddc-4442-a0c7-9a2b79ace5e7"],
+Cell[CellGroupData[{
+Cell[1724, 54, 231, 4, 53, "Section",ExpressionUUID->"3f0fd436-46c6-418a-bd0c-4fd18beb1c9f"],
+Cell[1958, 60, 209, 4, 32, "Item",ExpressionUUID->"7a05d5dd-fd01-4cdc-a978-dea6221a509c"],
+Cell[2170, 66, 204, 4, 32, "Item",ExpressionUUID->"b1df6ac2-3e40-4722-9e66-4f3c901dd3b7"],
+Cell[2377, 72, 204, 4, 32, "Item",ExpressionUUID->"5c8cb775-116e-47fe-a603-0db560ce3d6b"],
+Cell[2584, 78, 247, 5, 32, "Item",ExpressionUUID->"174bde7f-8271-4b41-9155-24e9d3252669"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2868, 88, 234, 4, 67, "Section",ExpressionUUID->"9ff44e61-1234-4369-a96f-685b19cb4dce"],
+Cell[CellGroupData[{
+Cell[3127, 96, 212, 4, 54, "Subsection",ExpressionUUID->"2d633ecd-11f7-4667-af10-affc244dd073"],
+Cell[3342, 102, 622, 11, 58, "Text",ExpressionUUID->"bcc05137-809f-41d3-a0fa-850b979a3d82"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4001, 118, 172, 3, 54, "Subsection",ExpressionUUID->"dbc99c96-ffab-4bf6-bf49-fd885fd8f33f"],
+Cell[4176, 123, 417, 8, 35, "Text",ExpressionUUID->"95a5b8ba-c458-42a5-a190-eb06e4e66a71"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4630, 136, 189, 3, 54, "Subsection",ExpressionUUID->"11587d63-f329-4a0d-8997-4712cabf95c2"],
+Cell[4822, 141, 245, 6, 35, "Text",ExpressionUUID->"bdcbeb44-8b99-4de5-af83-cdfdb5a9c612"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5104, 152, 169, 3, 54, "Subsection",ExpressionUUID->"e45b968e-6137-430f-a692-80a960439f1c"],
+Cell[5276, 157, 240, 4, 32, "Item",ExpressionUUID->"50a15e06-d75e-4737-b525-2b0c1d788ca2"]
+}, Open  ]],
+Cell[5531, 164, 200, 3, 54, "Subsection",ExpressionUUID->"6b2e4664-36c6-4eea-bdb2-97e309ebc1b1"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5768, 172, 153, 3, 67, "Section",ExpressionUUID->"cbcf1fa1-753f-4d58-acd7-edd5fd895867"],
+Cell[CellGroupData[{
+Cell[5946, 179, 210, 4, 54, "Subsection",ExpressionUUID->"2a3517cd-411b-4db4-86fb-3a145b441e94"],
+Cell[6159, 185, 247, 4, 32, "Item",ExpressionUUID->"515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6443, 194, 185, 3, 54, "Subsection",ExpressionUUID->"565926e7-62a7-4896-b38a-997f36992a11"],
+Cell[6631, 199, 206, 3, 32, "Item",ExpressionUUID->"f097a5c8-f60f-482e-a2e9-bf047c853e1f"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6874, 207, 281, 4, 54, "Subsection",ExpressionUUID->"79367e24-8a54-47b4-97a7-49f72ff887ba"],
+Cell[CellGroupData[{
+Cell[7180, 215, 159, 3, 45, "Subsubsection",ExpressionUUID->"086fcb2c-1fac-4fbd-876b-b5b2515996fe"],
+Cell[7342, 220, 199, 4, 32, "Item",ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],
+Cell[7544, 226, 148, 3, 32, "Item",ExpressionUUID->"06edd733-bb81-4c82-84ef-83263877d054"],
+Cell[7695, 231, 261, 5, 32, "Item",ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-cdd57a326552"],
+Cell[7959, 238, 218, 4, 32, "Item",ExpressionUUID->"3d567ec8-b520-45b0-a847-0069d05f1c5d"]
+}, Open  ]],
+Cell[8192, 245, 159, 3, 45, "Subsubsection",ExpressionUUID->"3cfba3fa-766d-4f11-98b0-6bd03209640c"],
+Cell[8354, 250, 161, 3, 37, "Subsubsection",ExpressionUUID->"db8c80f1-b5df-4281-b017-b2641b307708"],
+Cell[8518, 255, 159, 3, 37, "Subsubsection",ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],
+Cell[8680, 260, 159, 3, 37, "Subsubsection",ExpressionUUID->"1d31dc94-4f7d-4d12-a614-7249739a119b"],
+Cell[8842, 265, 161, 3, 37, "Subsubsection",ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-a752f50023c4"]
+}, Open  ]],
+Cell[9018, 271, 148, 3, 54, "Subsection",ExpressionUUID->"f822194b-66f2-42a1-a446-9e39ec36aed1"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
