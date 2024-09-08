@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookDataLength[     13180,        350]
-NotebookOptionsPosition[      9194,        278]
-NotebookOutlinePosition[      9591,        294]
-CellTagsIndexPosition[      9548,        291]
+NotebookDataLength[     22609,        549]
+NotebookOptionsPosition[     17097,        454]
+NotebookOutlinePosition[     17498,        470]
+CellTagsIndexPosition[     17455,        467]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -183,10 +183,11 @@ Cell["When will you meet with your group? How often? For how long?", \
   3.932640698729663*^9}},ExpressionUUID->"2a3517cd-411b-4db4-86fb-\
 3a145b441e94"],
 
-Cell["On Sundays", "Item",
- CellChangeTimes->{{3.9326409647334123`*^9, 3.93264097261019*^9}, {
+Cell["On Sundays at 1pm, ", "Item",
+ CellChangeTimes->{{3.932640964733412*^9, 3.93264097261019*^9}, {
   3.93264106438093*^9, 3.932641065860541*^9}, {3.933334389022406*^9, 
-  3.933334393199439*^9}},ExpressionUUID->"515588c6-f9c1-4f2c-ad91-\
+  3.933334393199439*^9}, {3.934804076086523*^9, 
+  3.934804082206349*^9}},ExpressionUUID->"515588c6-f9c1-4f2c-ad91-\
 eeff0900dfaa"]
 }, Open  ]],
 
@@ -197,9 +198,13 @@ Cell["Where are you keeping your task list?", "Subsection",
   3.932640712913102*^9}},ExpressionUUID->"565926e7-62a7-4896-b38a-\
 997f36992a11"],
 
-Cell["https://trello.com/b/I7VMEhkV/welp-2024", "Item",
- CellChangeTimes->{{3.9326407146981072`*^9, 3.932640722207868*^9}, 
-   3.933334361652288*^9},ExpressionUUID->"f097a5c8-f60f-482e-a2e9-\
+Cell["\<\
+https://www.notion.so/WELP-2024-Task-List-c30a51eb415842fba97d7b542df4d0bb?\
+pvs=4\
+\>", "Item",
+ CellChangeTimes->{{3.9326407146981063`*^9, 3.932640722207868*^9}, 
+   3.933334361652288*^9, 
+   3.934804071789239*^9},ExpressionUUID->"f097a5c8-f60f-482e-a2e9-\
 bf047c853e1f"]
 }, Open  ]],
 
@@ -218,55 +223,226 @@ Cell["Sprint 1", "Subsubsection",
   3.932640779476591*^9}},ExpressionUUID->"086fcb2c-1fac-4fbd-876b-\
 b5b2515996fe"],
 
-Cell["Dates", "Item",
- CellChangeTimes->{{3.93264082576614*^9, 3.9326408287651653`*^9}, {
-  3.9326408845119143`*^9, 
-  3.932640889630341*^9}},ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-\
+Cell["2 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.9326408845119143`*^9, 3.932640889630341*^9}, {3.934804347887383*^9, 
+  3.9348043514639*^9}, {3.934804382210972*^9, 3.934804384865368*^9}, {
+  3.934804915856885*^9, 
+  3.9348049174243803`*^9}},ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-\
 22c87c11c130"],
 
-Cell["Goals", "Item",
- CellChangeTimes->{{3.93264082576614*^9, 
-  3.9326408287651653`*^9}},ExpressionUUID->"06edd733-bb81-4c82-84ef-\
+Cell["\<\
+Research factors that make cities walkable, see how we want to \
+\[OpenCurlyDoubleQuote]score\[CloseCurlyDoubleQuote] cities / weights\
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.934804187578668*^9, 
+  3.934804241983717*^9}},ExpressionUUID->"06edd733-bb81-4c82-84ef-\
 83263877d054"],
 
-Cell["How will you judge if you\[CloseCurlyQuote]ve accomplished the goals?", \
-"Item",
+Cell["\<\
+Have a list of factors we want to test, and how much they are weighted\
+\>", "Item",
  CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
-  3.932640893654585*^9, 
-  3.932640917871393*^9}},ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-\
+  3.932640893654585*^9, 3.932640917871393*^9}, {3.934804245983869*^9, 
+  3.93480425894468*^9}},ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-\
 cdd57a326552"],
 
-Cell["Who is responsible for what?", "Item",
+Cell["\<\
+Each of us will focus on one factor and make test code showing how to score it\
+\>", "Item",
  CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
-  3.932640893654585*^9, 
-  3.932640924125202*^9}},ExpressionUUID->"3d567ec8-b520-45b0-a847-\
+  3.932640893654585*^9, 3.932640924125202*^9}, {3.93480439375213*^9, 
+  3.934804414858129*^9}},ExpressionUUID->"3d567ec8-b520-45b0-a847-\
 0069d05f1c5d"]
 }, Open  ]],
+
+Cell[CellGroupData[{
 
 Cell["Sprint 2", "Subsubsection",
  CellChangeTimes->{{3.932640777015089*^9, 
   3.932640789060409*^9}},ExpressionUUID->"3cfba3fa-766d-4f11-98b0-\
 6bd03209640c"],
 
+Cell["2 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.9326408845119143`*^9, 3.932640889630341*^9}, {3.934804347887383*^9, 
+  3.9348043514639*^9}, {3.934804382210972*^9, 3.934804384865368*^9}, {
+  3.934804437913603*^9, 3.9348044393965883`*^9}, {3.9348045876003017`*^9, 
+  3.9348045893737173`*^9}, {3.934804767152568*^9, 3.93480476764986*^9}, {
+  3.934804880481435*^9, 3.934804881017819*^9}, {3.934804919027199*^9, 
+  3.934804919847847*^9}},ExpressionUUID->"21e56faf-f096-4aea-99e2-\
+b189318e040d"],
+
+Cell["\<\
+Combining the test code to see the final score of different cities\
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.934804187578668*^9, 3.934804241983717*^9}, {3.934804441670495*^9, 
+  3.9348044824996443`*^9}},ExpressionUUID->"9a0e4a27-cb7a-43c9-8ffd-\
+ebbf40f38c6f"],
+
+Cell["\<\
+Be able to compare different cities to each other based on walkability\
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640917871393*^9}, {3.934804245983869*^9, 
+  3.93480425894468*^9}, {3.934804486910119*^9, 
+  3.934804503982505*^9}},ExpressionUUID->"4207e051-ef20-4c88-a9c0-\
+49b357e9a4ae"],
+
+Cell["Work on it asynchronously over the 2 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640924125202*^9}, {3.93480439375213*^9, 
+  3.934804414858129*^9}, {3.934804507133338*^9, 3.9348045806627407`*^9}, {
+  3.934804850882203*^9, 
+  3.934804852181884*^9}},ExpressionUUID->"7166bdd5-52c3-4be2-a2d5-\
+1d891c1e4f15"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
 Cell["Sprint 3", "Subsubsection",
  CellChangeTimes->{{3.932640777015089*^9, 
   3.9326407924521923`*^9}},ExpressionUUID->"db8c80f1-b5df-4281-b017-\
 b2641b307708"],
+
+Cell["3 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+   3.9326408845119143`*^9, 3.932640889630341*^9}, {3.934804347887383*^9, 
+   3.9348043514639*^9}, {3.934804382210972*^9, 3.934804384865368*^9}, {
+   3.934804437913603*^9, 3.9348044393965883`*^9}, {3.9348045876003017`*^9, 
+   3.934804598663515*^9}, 3.934804647461109*^9, {3.93480476909824*^9, 
+   3.9348047695414457`*^9}, {3.934804935067869*^9, 3.934804935782687*^9}, {
+   3.934805019061008*^9, 
+   3.9348050202766047`*^9}},ExpressionUUID->"9cc9f98a-70e2-4fdc-9d17-\
+e12b1cf8ceda"],
+
+Cell["\<\
+Determine where the next best place to put a store / park / community center \
+in a town\
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.934804187578668*^9, 3.934804241983717*^9}, {3.934804441670495*^9, 
+  3.9348044824996443`*^9}, {3.934804654561791*^9, 
+  3.9348046849944677`*^9}},ExpressionUUID->"ed6e00dc-b74a-4ffb-ac3c-\
+f4a67e4fd217"],
+
+Cell["\<\
+Be able to compare different cities to each other based on walkability\
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640917871393*^9}, {3.934804245983869*^9, 
+  3.93480425894468*^9}, {3.934804486910119*^9, 
+  3.934804503982505*^9}},ExpressionUUID->"4b5680f2-5d94-476a-b8b1-\
+072146eb7412"],
+
+Cell["Work on it asynchronously over the 3 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640924125202*^9}, {3.93480439375213*^9, 
+  3.934804414858129*^9}, {3.934804507133338*^9, 3.9348045806627407`*^9}, {
+  3.934805267124915*^9, 
+  3.934805268016528*^9}},ExpressionUUID->"8772ff78-85b5-4450-9ba4-\
+d3f7f557fda1"]
+}, Open  ]],
+
+Cell[CellGroupData[{
 
 Cell["Sprint 4", "Subsubsection",
  CellChangeTimes->{{3.932640777015089*^9, 
   3.932640793732336*^9}},ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-\
 d5d0607e8c97"],
 
+Cell["4 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+   3.9326408845119143`*^9, 3.932640889630341*^9}, {3.934804347887383*^9, 
+   3.9348043514639*^9}, {3.934804382210972*^9, 3.934804384865368*^9}, {
+   3.934804437913603*^9, 3.9348044393965883`*^9}, {3.9348045876003017`*^9, 
+   3.934804598663515*^9}, 3.934804647461109*^9, {3.93480476909824*^9, 
+   3.9348047695414457`*^9}, {3.934804935067869*^9, 3.934804935782687*^9}, {
+   3.934805019061008*^9, 3.9348050202766047`*^9}, {3.9348051537321568`*^9, 
+   3.934805163703878*^9}, {3.9348052026612988`*^9, 
+   3.934805202769803*^9}},ExpressionUUID->"5130b742-59ba-4bf7-a2bb-\
+367b63d28c31"],
+
+Cell["\<\
+Creating city plans given a population, and land size, and adding houses and \
+shopping centers. \
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.934804187578668*^9, 3.934804241983717*^9}, {3.934804441670495*^9, 
+  3.9348044824996443`*^9}, {3.934804654561791*^9, 3.9348046849944677`*^9}, {
+  3.934805159507969*^9, 
+  3.9348051992893476`*^9}},ExpressionUUID->"bef567ab-edf0-456c-94fa-\
+1e38e5483d2d"],
+
+Cell["being able to generate a walkable city", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640917871393*^9}, {3.934804245983869*^9, 
+  3.93480425894468*^9}, {3.934804486910119*^9, 3.934804503982505*^9}, {
+  3.934805212702241*^9, 
+  3.9348052476546707`*^9}},ExpressionUUID->"84f3ed44-f148-4d3b-9688-\
+b3a9805991ec"],
+
+Cell["\<\
+Work on it asynchronously over the 4 weeks; one person focused on creating \
+housing plans, another on making sure stores are not too far away\
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640924125202*^9}, {3.93480439375213*^9, 
+  3.934804414858129*^9}, {3.934804507133338*^9, 3.9348045806627407`*^9}, {
+  3.934805269793396*^9, 
+  3.934805311222272*^9}},ExpressionUUID->"63f376b8-96e5-4ff1-b7a9-\
+aaf467bd662c"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
 Cell["Sprint 5", "Subsubsection",
  CellChangeTimes->{{3.932640777015089*^9, 
   3.932640795348504*^9}},ExpressionUUID->"1d31dc94-4f7d-4d12-a614-\
 7249739a119b"],
 
-Cell["Sprint 6", "Subsubsection",
- CellChangeTimes->{{3.932640777015089*^9, 
-  3.9326407970192432`*^9}},ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-\
-a752f50023c4"]
+Cell["2 weeks", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+   3.9326408845119143`*^9, 3.932640889630341*^9}, {3.934804347887383*^9, 
+   3.9348043514639*^9}, {3.934804382210972*^9, 3.934804384865368*^9}, {
+   3.934804437913603*^9, 3.9348044393965883`*^9}, {3.9348045876003017`*^9, 
+   3.934804598663515*^9}, 3.934804647461109*^9, {3.93480476909824*^9, 
+   3.9348047695414457`*^9}, {3.934804935067869*^9, 3.934804935782687*^9}, {
+   3.934805019061008*^9, 3.9348050202766047`*^9}, {3.9348051537321568`*^9, 
+   3.934805163703878*^9}, {3.9348052026612988`*^9, 3.934805202769803*^9}, {
+   3.9348053173781843`*^9, 
+   3.934805317473175*^9}},ExpressionUUID->"630f8dca-87cf-4a28-bdc5-\
+f50dd80ea983"],
+
+Cell["Work on computational essay", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640828765165*^9}, {
+  3.934804187578668*^9, 3.934804241983717*^9}, {3.934804441670495*^9, 
+  3.9348044824996443`*^9}, {3.934804654561791*^9, 3.9348046849944677`*^9}, {
+  3.934805159507969*^9, 3.9348051992893476`*^9}, {3.9348053193739223`*^9, 
+  3.934805323667161*^9}},ExpressionUUID->"8ab3d890-77b6-4f86-931d-\
+a86e5caedbeb"],
+
+Cell["Finished Computational Essay", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640917871393*^9}, {3.934804245983869*^9, 
+  3.93480425894468*^9}, {3.934804486910119*^9, 3.934804503982505*^9}, {
+  3.934805212702241*^9, 3.9348052476546707`*^9}, {3.934805326928493*^9, 
+  3.9348053309750443`*^9}},ExpressionUUID->"a8f1f01f-84f5-410d-850a-\
+91093fedc4e6"],
+
+Cell["\<\
+Work on it asynchronously over the 2 weeks; one person on adding code and \
+writing descriptions, another on adding text. \
+\>", "Item",
+ CellChangeTimes->{{3.93264082576614*^9, 3.932640858440374*^9}, {
+  3.932640893654585*^9, 3.932640924125202*^9}, {3.93480439375213*^9, 
+  3.934804414858129*^9}, {3.934804507133338*^9, 3.9348045806627407`*^9}, {
+  3.934805269793396*^9, 
+  3.934805358875051*^9}},ExpressionUUID->"6e2a5905-5dac-427c-b752-\
+daeebd1c5720"]
+}, Open  ]]
 }, Open  ]],
 
 Cell["", "Subsection",
@@ -277,7 +453,7 @@ Cell["", "Subsection",
 }, Open  ]]
 },
 WindowSize->{1323, 911},
-WindowMargins->{{Automatic, 45}, {1, Automatic}},
+WindowMargins->{{Automatic, 190}, {-169, Automatic}},
 FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 16, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"11fda7a0-779c-4805-8b0c-49c80c077c53"
@@ -328,28 +504,51 @@ Cell[CellGroupData[{
 Cell[5768, 172, 153, 3, 67, "Section",ExpressionUUID->"cbcf1fa1-753f-4d58-acd7-edd5fd895867"],
 Cell[CellGroupData[{
 Cell[5946, 179, 210, 4, 54, "Subsection",ExpressionUUID->"2a3517cd-411b-4db4-86fb-3a145b441e94"],
-Cell[6159, 185, 247, 4, 32, "Item",ExpressionUUID->"515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]
+Cell[6159, 185, 303, 5, 32, "Item",ExpressionUUID->"515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6443, 194, 185, 3, 54, "Subsection",ExpressionUUID->"565926e7-62a7-4896-b38a-997f36992a11"],
-Cell[6631, 199, 206, 3, 32, "Item",ExpressionUUID->"f097a5c8-f60f-482e-a2e9-bf047c853e1f"]
+Cell[6499, 195, 185, 3, 54, "Subsection",ExpressionUUID->"565926e7-62a7-4896-b38a-997f36992a11"],
+Cell[6687, 200, 283, 7, 32, "Item",ExpressionUUID->"f097a5c8-f60f-482e-a2e9-bf047c853e1f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6874, 207, 281, 4, 54, "Subsection",ExpressionUUID->"79367e24-8a54-47b4-97a7-49f72ff887ba"],
+Cell[7007, 212, 281, 4, 54, "Subsection",ExpressionUUID->"79367e24-8a54-47b4-97a7-49f72ff887ba"],
 Cell[CellGroupData[{
-Cell[7180, 215, 159, 3, 45, "Subsubsection",ExpressionUUID->"086fcb2c-1fac-4fbd-876b-b5b2515996fe"],
-Cell[7342, 220, 199, 4, 32, "Item",ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],
-Cell[7544, 226, 148, 3, 32, "Item",ExpressionUUID->"06edd733-bb81-4c82-84ef-83263877d054"],
-Cell[7695, 231, 261, 5, 32, "Item",ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-cdd57a326552"],
-Cell[7959, 238, 218, 4, 32, "Item",ExpressionUUID->"3d567ec8-b520-45b0-a847-0069d05f1c5d"]
+Cell[7313, 220, 159, 3, 45, "Subsubsection",ExpressionUUID->"086fcb2c-1fac-4fbd-876b-b5b2515996fe"],
+Cell[7475, 225, 343, 6, 32, "Item",ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],
+Cell[7821, 233, 332, 7, 32, "Item",ExpressionUUID->"06edd733-bb81-4c82-84ef-83263877d054"],
+Cell[8156, 242, 313, 6, 32, "Item",ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-cdd57a326552"],
+Cell[8472, 250, 321, 6, 32, "Item",ExpressionUUID->"3d567ec8-b520-45b0-a847-0069d05f1c5d"]
 }, Open  ]],
-Cell[8192, 245, 159, 3, 45, "Subsubsection",ExpressionUUID->"3cfba3fa-766d-4f11-98b0-6bd03209640c"],
-Cell[8354, 250, 161, 3, 37, "Subsubsection",ExpressionUUID->"db8c80f1-b5df-4281-b017-b2641b307708"],
-Cell[8518, 255, 159, 3, 37, "Subsubsection",ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],
-Cell[8680, 260, 159, 3, 37, "Subsubsection",ExpressionUUID->"1d31dc94-4f7d-4d12-a614-7249739a119b"],
-Cell[8842, 265, 161, 3, 37, "Subsubsection",ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-a752f50023c4"]
+Cell[CellGroupData[{
+Cell[8830, 261, 159, 3, 45, "Subsubsection",ExpressionUUID->"3cfba3fa-766d-4f11-98b0-6bd03209640c"],
+Cell[8992, 266, 536, 8, 32, "Item",ExpressionUUID->"21e56faf-f096-4aea-99e2-b189318e040d"],
+Cell[9531, 276, 312, 6, 32, "Item",ExpressionUUID->"9a0e4a27-cb7a-43c9-8ffd-ebbf40f38c6f"],
+Cell[9846, 284, 362, 7, 32, "Item",ExpressionUUID->"4207e051-ef20-4c88-a9c0-49b357e9a4ae"],
+Cell[10211, 293, 377, 6, 32, "Item",ExpressionUUID->"7166bdd5-52c3-4be2-a2d5-1d891c1e4f15"]
 }, Open  ]],
-Cell[9018, 271, 148, 3, 54, "Subsection",ExpressionUUID->"f822194b-66f2-42a1-a446-9e39ec36aed1"]
+Cell[CellGroupData[{
+Cell[10625, 304, 161, 3, 45, "Subsubsection",ExpressionUUID->"db8c80f1-b5df-4281-b017-b2641b307708"],
+Cell[10789, 309, 570, 9, 32, "Item",ExpressionUUID->"9cc9f98a-70e2-4fdc-9d17-e12b1cf8ceda"],
+Cell[11362, 320, 385, 8, 32, "Item",ExpressionUUID->"ed6e00dc-b74a-4ffb-ac3c-f4a67e4fd217"],
+Cell[11750, 330, 362, 7, 32, "Item",ExpressionUUID->"4b5680f2-5d94-476a-b8b1-072146eb7412"],
+Cell[12115, 339, 377, 6, 32, "Item",ExpressionUUID->"8772ff78-85b5-4450-9ba4-d3f7f557fda1"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[12529, 350, 159, 3, 45, "Subsubsection",ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],
+Cell[12691, 355, 670, 10, 32, "Item",ExpressionUUID->"5130b742-59ba-4bf7-a2bb-367b63d28c31"],
+Cell[13364, 367, 445, 9, 32, "Item",ExpressionUUID->"bef567ab-edf0-456c-94fa-1e38e5483d2d"],
+Cell[13812, 378, 373, 6, 32, "Item",ExpressionUUID->"84f3ed44-f148-4d3b-9688-b3a9805991ec"],
+Cell[14188, 386, 485, 9, 32, "Item",ExpressionUUID->"63f376b8-96e5-4ff1-b7a9-aaf467bd662c"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[14710, 400, 159, 3, 45, "Subsubsection",ExpressionUUID->"1d31dc94-4f7d-4d12-a614-7249739a119b"],
+Cell[14872, 405, 722, 11, 32, "Item",ExpressionUUID->"630f8dca-87cf-4a28-bdc5-f50dd80ea983"],
+Cell[15597, 418, 415, 6, 32, "Item",ExpressionUUID->"8ab3d890-77b6-4f86-931d-a86e5caedbeb"],
+Cell[16015, 426, 411, 6, 32, "Item",ExpressionUUID->"a8f1f01f-84f5-410d-850a-91093fedc4e6"],
+Cell[16429, 434, 465, 9, 32, "Item",ExpressionUUID->"6e2a5905-5dac-427c-b752-daeebd1c5720"]
+}, Open  ]]
+}, Open  ]],
+Cell[16921, 447, 148, 3, 54, "Subsection",ExpressionUUID->"f822194b-66f2-42a1-a446-9e39ec36aed1"]
 }, Open  ]]
 }, Open  ]]
 }

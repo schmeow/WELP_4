@@ -1,125 +1,499 @@
-Notebook[{Cell[
-CellGroupData[{Cell[
-"\<WELP Project Proposal Template\>","Title",
-CellChangeTimes -> {{3.932640383188323`*^9,3.932640390089926`*^9}},ExpressionUUID -> "89200b18-f8af-450f-a844-026dbdea0c05"],Cell[
+(* Content-type: application/vnd.wolfram.mathematica *)
 
-"\<Note for WELP:U Students - as you are doing this project individually, you can simply ignore references to groups when filling this out.\>",
-"Text",CellChangeTimes -> {{3.932640392555743`*^9,3.932640427568779`*^9}},ExpressionUUID -> "7f08a4a5-6eab-4599-917e-aebc910bff6d"],Cell[
-TextData[
-{"Please save this notebook with the filename WELP24 Project Proposal - Group # (or - Name for WELP:U) and put it in the ",ButtonBox[
-"Project Proposal Submissions folder ",BaseStyle -> "Hyperlink",ButtonData -> {URL[
-"https://drive.google.com/drive/folders/14fa9Ye42abVuO8K_n3noDULPyswC-wmS?usp=drive_link"],None},
-ButtonNote -> "https://drive.google.com/drive/folders/14fa9Ye42abVuO8K_n3noDULPyswC-wmS?usp=drive_link"]}],
-"Subsubsection",CellChangeTimes -> {{3.932641166173828`*^9,3.932641211552463`*^9},{3.932829607238592`*^9,3.93282963953585`*^9}},
-ExpressionUUID -> "340e4c11-fddc-4442-a0c7-9a2b79ace5e7"],Cell[
-CellGroupData[{Cell[
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
 
-"\<Proj-Group-#4\>","Section",CellChangeTimes -> {{3.932641093984117`*^9,3.932641096529719`*^9},{3.932641138417893`*^9,3.932641159113504`*^9},3.933332993113533`*^9},
-ExpressionUUID -> "3f0fd436-46c6-418a-bd0c-4fd18beb1c9f"],Cell[
-"\<Anoushka Muchhal\>",
-"Item",CellChangeTimes -> {{3.932641098812458`*^9,3.932641104805327`*^9},{3.9333334281677723`*^9,3.933333429961409`*^9}},
-ExpressionUUID -> "7a05d5dd-fd01-4cdc-a978-dea6221a509c"],Cell[
-"\<Gloria Chan\>",
-"Item",CellChangeTimes -> {{3.932641098812458`*^9,3.932641105717078`*^9},{3.9333334317322397`*^9,3.933333437220481`*^9}},
-ExpressionUUID -> "b1df6ac2-3e40-4722-9e66-4f3c901dd3b7"],Cell[
-"\<Claire Bian\>",
-"Item",CellChangeTimes -> {{3.932641098812458`*^9,3.9326411076271563`*^9},{3.933333445628405`*^9,3.933333449617206`*^9}},
-ExpressionUUID -> "5c8cb775-116e-47fe-a603-0db560ce3d6b"],Cell[
-TextData[StyleBox[
-"Mentor: Dugan",FontWeight -> "Bold"]],"Item",CellChangeTimes -> {{3.932641098812458`*^9,3.9326411291050644`*^9},{3.933333455812413`*^9,3.933333458973304`*^9}},
-ExpressionUUID -> "174bde7f-8271-4b41-9155-24e9d3252669"]},Open],ExpressionUUID -> "10bafbe1-592b-45cf-808e-00dcd1ca779e"],Cell[
-CellGroupData[
-{Cell[
-"\<Project Title: TikTok Wrapped\>","Section",CellChangeTimes -> {{3.932640430745486`*^9,3.932640454781645`*^9},{3.933333681933176`*^9,3.933333684153854`*^9},{3.933334499667197`*^9,3.933334525050262`*^9}},
-ExpressionUUID -> "9ff44e61-1234-4369-a96f-685b19cb4dce"],Cell[
-CellGroupData[{Cell[
+(* CreatedBy='WolframDesktop 14.0' *)
 
-"\<The Problem\>","Subsection",CellChangeTimes -> {{3.9326405424095573`*^9,3.932640546337922`*^9},{3.9333336860394173`*^9,3.933333693355221`*^9}},
-ExpressionUUID -> "2d633ecd-11f7-4667-af10-affc244dd073"],Cell[
-"\<We want to be able to analyze trends on tiktok and the way people interact with each other / videos\>",
-"Text",CellChangeTimes -> {{3.9333337523446293`*^9,3.933333754734345`*^9},{3.933333791759495`*^9,3.933333808264443`*^9},{3.9333338568830423`*^9,3.933333860129608`*^9},{3.933333915774365`*^9,3.933333927540081`*^9},{3.9333340578482847`*^9,3.933334108576364`*^9},{3.9333345195318747`*^9,3.9333345497943153`*^9}},
-ExpressionUUID -> "bcc05137-809f-41d3-a0fa-850b979a3d82"]},Open],ExpressionUUID -> "2c33dd60-4667-4b37-a553-84894fc6dbe4"],Cell[
-CellGroupData[
-{Cell[
-"\<How you plan to solve it\>","Subsection",CellChangeTimes -> {{3.932640553940339`*^9,3.932640558345264`*^9}},
-ExpressionUUID -> "dbc99c96-ffab-4bf6-bf49-fd885fd8f33f"],Cell[
-"\<Creating a map of tiktok videos and grouping them based on tags, and also creating an app which can show a users most viewed tags given their tiktok data\>",
-"Text",CellChangeTimes -> {{3.933333946154187`*^9,3.9333339645928`*^9},{3.933334015037739`*^9,3.933334054179282`*^9},{3.9333345525837297`*^9,3.933334600020646`*^9}},
-ExpressionUUID -> "95a5b8ba-c458-42a5-a190-eb06e4e66a71"]},Open],ExpressionUUID -> "c86aec2c-fd32-4652-88f7-735aa8d61498"],Cell[
-CellGroupData[
-{Cell[
-"\<Why is this a good fit for you/your team?\>","Subsection",CellChangeTimes -> {{3.932640560505062`*^9,3.932640568409265`*^9}},
-ExpressionUUID -> "11587d63-f329-4a0d-8997-4712cabf95c2"],Cell[
-"\<This is a good fit for our team because we find internet trends interesting, and enjoy data analysis\>",
-"Text",CellChangeTimes -> {{3.933334166645553`*^9,3.9333341971620293`*^9},{3.933334605695973`*^9,3.933334628471704`*^9}},
-ExpressionUUID -> "bdcbeb44-8b99-4de5-af83-cdfdb5a9c612"]},Open],ExpressionUUID -> "d3ab1dbd-aae1-48c8-a294-0f9468c4838f"],Cell[
-CellGroupData[
-{Cell[
-"\<What data do you need?\>","Subsection",CellChangeTimes -> {{3.932640589168119`*^9,3.93264059989354`*^9}},
-ExpressionUUID -> "e45b968e-6137-430f-a692-80a960439f1c"],Cell[
-"\<tiktok user data (which we can download from tiktok directly)\>",
-"Item",CellChangeTimes -> {{3.93264060127557`*^9,3.932640667131102`*^9},{3.933334211889743`*^9,3.933334223123549`*^9},{3.933334632006947`*^9,3.9333346483732777`*^9}},
-ExpressionUUID -> "50a15e06-d75e-4737-b525-2b0c1d788ca2"],Cell[
-"\<tiktok video data (can be scraped using online resources) \>",
-"Item",CellChangeTimes -> {{3.93264060127557`*^9,3.932640667131102`*^9},{3.933334211889743`*^9,3.933334223123549`*^9},{3.933334632006947`*^9,3.933334665931713`*^9}},
-ExpressionUUID -> "44d011c3-d949-47b4-8e3d-211cd7f21d6b"]},Open],ExpressionUUID -> "f7028b93-422b-40b4-b4ff-90ecb3958416"],Cell[
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       161,          7]
+NotebookDataLength[     19806,        491]
+NotebookOptionsPosition[     14510,        400]
+NotebookOutlinePosition[     14908,        416]
+CellTagsIndexPosition[     14865,        413]
+WindowFrame->Normal*)
 
-"\<Do you have any code showing your project is viable?\>","Subsection",CellChangeTimes -> {{3.932640743239826`*^9,3.932640755317156`*^9}},
-ExpressionUUID -> "6b2e4664-36c6-4eea-bdb2-97e309ebc1b1"]},Open],ExpressionUUID -> "06b0599b-453d-4eab-ae13-60906a025f20"],Cell[
-CellGroupData[
-{Cell[
-"\<Planning\>","Section",CellChangeTimes -> {{3.932640582056075`*^9,3.932640584311747`*^9}},
-ExpressionUUID -> "cbcf1fa1-753f-4d58-acd7-edd5fd895867"],Cell[
-CellGroupData[{Cell[
+(* Beginning of Notebook Content *)
+Notebook[{
 
-"\<When will you meet with your group? How often? For how long?\>","Subsection",CellChangeTimes -> {{3.932640682993993`*^9,3.932640698729663`*^9}},
-ExpressionUUID -> "2a3517cd-411b-4db4-86fb-3a145b441e94"],Cell[
-"\<On Sundays\>",
-"Item",CellChangeTimes -> {{3.9326409647334123`*^9,3.93264097261019`*^9},{3.93264106438093`*^9,3.932641065860541`*^9},{3.933334389022406`*^9,3.933334393199439`*^9}},
-ExpressionUUID -> "515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]},Open],ExpressionUUID -> "85560201-fd16-4e1e-8ec3-3cf833c52d74"],Cell[
-CellGroupData[
-{Cell[
-"\<Where are you keeping your task list?\>","Subsection",CellChangeTimes -> {{3.932640704794647`*^9,3.932640712913102`*^9}},
-ExpressionUUID -> "565926e7-62a7-4896-b38a-997f36992a11"],Cell[
-"\<https://www.notion.so/WELP-2024-Task-List-c30a51eb415842fba97d7b542df4d0bb?pvs=4\>",
-"Item",CellChangeTimes -> {{3932640714.6981072`,3932640722.207868`},3933334361.652288`},
-ExpressionUUID -> "f097a5c8-f60f-482e-a2e9-bf047c853e1f"]},Open],ExpressionUUID -> "7d8ddb5f-929e-477d-9a1a-25c7010fc91c"],Cell[
-CellGroupData[
-{Cell[
-"\<Outline your Sprints (recommended 3-6)\>","Subsection",CellChangeTimes -> {{3.932640766665433`*^9,3.932640774724964`*^9},{3.932640806115765`*^9,3.932640821610325`*^9},{3.932640867919759`*^9,3.932640905806188`*^9}},
-ExpressionUUID -> "79367e24-8a54-47b4-97a7-49f72ff887ba"],Cell[
-CellGroupData[{Cell[
+Cell[CellGroupData[{
+Cell["WELP Project Proposal Template", "Title",
+ CellChangeTimes->{{3.932640383188322*^9, 
+  3.9326403900899253`*^9}},ExpressionUUID->"6fa11ccf-833d-400b-bf79-\
+9f665167763d"],
 
-"\<Sprint 1\>","Subsubsection",CellChangeTimes -> {{3.932640777015089`*^9,3.932640779476591`*^9}},
-ExpressionUUID -> "086fcb2c-1fac-4fbd-876b-b5b2515996fe"],Cell[
-"\<Dates\>","Item",
-CellChangeTimes -> {{3.93264082576614`*^9,3.9326408287651653`*^9},{3.9326408845119143`*^9,3.932640889630341`*^9}},
-ExpressionUUID -> "e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],Cell[
-"\<Goals\>","Item",
-CellChangeTimes -> {{3.93264082576614`*^9,3.9326408287651653`*^9}},ExpressionUUID -> "06edd733-bb81-4c82-84ef-83263877d054"],Cell[
+Cell["\<\
+Note for WELP:U Students - as you are doing this project individually, you \
+can simply ignore references to groups when filling this out.\
+\>", "Text",
+ CellChangeTimes->{{3.9326403925557423`*^9, 
+  3.932640427568778*^9}},ExpressionUUID->"7f08a4a5-6eab-4599-917e-\
+aebc910bff6d"],
 
-"\<How will you judge if you\[CloseCurlyQuote]ve accomplished the goals?\>","Item",
-CellChangeTimes -> {{3.93264082576614`*^9,3.932640858440374`*^9},{3.932640893654585`*^9,3.932640917871393`*^9}},
-ExpressionUUID -> "840a8c97-5e4c-4d8c-aa69-cdd57a326552"],Cell[
-"\<Who is responsible for what?\>",
-"Item",CellChangeTimes -> {{3.93264082576614`*^9,3.932640858440374`*^9},{3.932640893654585`*^9,3.932640924125202`*^9}},
-ExpressionUUID -> "3d567ec8-b520-45b0-a847-0069d05f1c5d"]},Open],ExpressionUUID -> "777144a9-08db-46c4-907e-a7ce2c284c25"],Cell[
+Cell[TextData[{
+ "Please save this notebook with the filename WELP24 Project Proposal - Group \
+# (or - Name for WELP:U) and put it in the ",
+ ButtonBox["Project Proposal Submissions folder ",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://drive.google.com/drive/folders/14fa9Ye42abVuO8K_n3noDULPyswC-\
+wmS?usp=drive_link"], None},
+  ButtonNote->
+   "https://drive.google.com/drive/folders/14fa9Ye42abVuO8K_n3noDULPyswC-wmS?\
+usp=drive_link"]
+}], "Subsubsection",
+ CellChangeTimes->{{3.932641166173827*^9, 3.932641211552463*^9}, {
+  3.9328296072385917`*^9, 
+  3.932829639535849*^9}},ExpressionUUID->"340e4c11-fddc-4442-a0c7-\
+9a2b79ace5e7"],
 
-"\<Sprint 2\>","Subsubsection",CellChangeTimes -> {{3.932640777015089`*^9,3.932640789060409`*^9}},
-ExpressionUUID -> "3cfba3fa-766d-4f11-98b0-6bd03209640c"],Cell[
-"\<Sprint 3\>","Subsubsection",
-CellChangeTimes -> {{3.932640777015089`*^9,3.9326407924521923`*^9}},ExpressionUUID -> "db8c80f1-b5df-4281-b017-b2641b307708"],Cell[
+Cell[CellGroupData[{
 
-"\<Sprint 4\>","Subsubsection",CellChangeTimes -> {{3.932640777015089`*^9,3.932640793732336`*^9}},
-ExpressionUUID -> "a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],Cell[
-"\<Sprint 5\>","Subsubsection",
-CellChangeTimes -> {{3.932640777015089`*^9,3.932640795348504`*^9}},ExpressionUUID -> "1d31dc94-4f7d-4d12-a614-7249739a119b"],Cell[
+Cell["Proj-Group-#4", "Section",
+ CellChangeTimes->{{3.9326410939841166`*^9, 3.9326410965297184`*^9}, {
+   3.9326411384178925`*^9, 3.932641159113503*^9}, 
+   3.933332993113533*^9},ExpressionUUID->"10bafbe1-592b-45cf-808e-\
+00dcd1ca779e"],
 
-"\<Sprint 6\>","Subsubsection",CellChangeTimes -> {{3.932640777015089`*^9,3.9326407970192432`*^9}},
-ExpressionUUID -> "a811f8dc-ea86-43a1-8cf8-a752f50023c4"]},Open],ExpressionUUID -> "b25c310f-875c-46f4-9958-5368491b7e83"],Cell[
+Cell["Anoushka Muchhal", "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.9326411048053265`*^9}, {
+  3.933333428167773*^9, 
+  3.933333429961409*^9}},ExpressionUUID->"7a05d5dd-fd01-4cdc-a978-\
+dea6221a509c"],
 
-"\<\>","Subsection",CellChangeTimes -> {{3.932640732895527`*^9,3.932640733391326`*^9}},
-ExpressionUUID -> "f822194b-66f2-42a1-a446-9e39ec36aed1"]},Open],ExpressionUUID -> "37fbeb3f-cfb4-4205-b3a6-5a4833d03f14"]},
-Open],ExpressionUUID -> "6fa11ccf-833d-400b-bf79-9f665167763d"]},StyleDefinitions -> "Default.nb",
-WindowSize -> {1323,911},WindowMargins -> {{Automatic,45},{1,Automatic}},FrontEndVersion -> "14.1 for Wolfram Cloud 1.69 (July 16, 2024)",
-ExpressionUUID -> "2df8595c-6ff7-4174-8fca-aa8f34befa19"]
+Cell["Gloria Chan", "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.9326411057170777`*^9}, {
+  3.9333334317322397`*^9, 
+  3.933333437220481*^9}},ExpressionUUID->"b1df6ac2-3e40-4722-9e66-\
+4f3c901dd3b7"],
+
+Cell["Claire Bian", "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.9326411076271563`*^9}, {
+  3.933333445628405*^9, 
+  3.933333449617206*^9}},ExpressionUUID->"5c8cb775-116e-47fe-a603-\
+0db560ce3d6b"],
+
+Cell[TextData[StyleBox["Mentor: Dugan",
+ FontWeight->"Bold"]], "Item",
+ CellChangeTimes->{{3.932641098812458*^9, 3.9326411291050634`*^9}, {
+  3.9333334558124137`*^9, 
+  3.9333334589733043`*^9}},ExpressionUUID->"174bde7f-8271-4b41-9155-\
+24e9d3252669"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Project Title: TikTok Wrapped", "Section",
+ CellChangeTimes->{{3.9326404307454853`*^9, 3.932640454781644*^9}, {
+  3.9333336819331765`*^9, 3.933333684153854*^9}, {3.933334499667197*^9, 
+  3.9333345250502625`*^9}},ExpressionUUID->"06b0599b-453d-4eab-ae13-\
+60906a025f20"],
+
+Cell[CellGroupData[{
+
+Cell["The Problem", "Subsection",
+ CellChangeTimes->{{3.9326405424095573`*^9, 3.932640546337922*^9}, {
+  3.9333336860394177`*^9, 
+  3.9333336933552203`*^9}},ExpressionUUID->"2c33dd60-4667-4b37-a553-\
+84894fc6dbe4"],
+
+Cell["\<\
+We want to be able to analyze trends on tiktok and the way people interact \
+with each other / videos\
+\>", "Text",
+ CellChangeTimes->{{3.93333375234463*^9, 3.9333337547343454`*^9}, {
+  3.9333337917594953`*^9, 3.9333338082644434`*^9}, {3.933333856883043*^9, 
+  3.933333860129608*^9}, {3.933333915774365*^9, 3.933333927540081*^9}, {
+  3.933334057848285*^9, 3.9333341085763645`*^9}, {3.933334519531875*^9, 
+  3.9333345497943163`*^9}},ExpressionUUID->"bcc05137-809f-41d3-a0fa-\
+850b979a3d82"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["How you plan to solve it", "Subsection",
+ CellChangeTimes->{{3.9326405539403386`*^9, 
+  3.9326405583452635`*^9}},ExpressionUUID->"c86aec2c-fd32-4652-88f7-\
+735aa8d61498"],
+
+Cell["\<\
+Creating a map of tiktok videos and grouping them based on tags, and also \
+creating an app which can show a users most viewed tags given their tiktok \
+data\
+\>", "Text",
+ CellChangeTimes->{{3.933333946154187*^9, 3.9333339645928*^9}, {
+  3.9333340150377393`*^9, 3.933334054179282*^9}, {3.93333455258373*^9, 
+  3.9333346000206466`*^9}},ExpressionUUID->"95a5b8ba-c458-42a5-a190-\
+eb06e4e66a71"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Why is this a good fit for you/your team?", "Subsection",
+ CellChangeTimes->{{3.9326405605050616`*^9, 
+  3.932640568409264*^9}},ExpressionUUID->"d3ab1dbd-aae1-48c8-a294-\
+0f9468c4838f"],
+
+Cell["\<\
+This is a good fit for our team because we find internet trends interesting, \
+and enjoy data analysis\
+\>", "Text",
+ CellChangeTimes->{{3.9333341666455536`*^9, 3.9333341971620297`*^9}, {
+  3.933334605695974*^9, 
+  3.9333346284717045`*^9}},ExpressionUUID->"bdcbeb44-8b99-4de5-af83-\
+cdfdb5a9c612"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["What data do you need?", "Subsection",
+ CellChangeTimes->{{3.932640589168118*^9, 
+  3.932640599893539*^9}},ExpressionUUID->"f7028b93-422b-40b4-b4ff-\
+90ecb3958416"],
+
+Cell["\<\
+tiktok user data (which we can download from tiktok directly)\
+\>", "Item",
+ CellChangeTimes->{{3.9326406012755694`*^9, 3.9326406671311016`*^9}, {
+  3.9333342118897433`*^9, 3.933334223123549*^9}, {3.9333346320069475`*^9, 
+  3.9333346483732786`*^9}},ExpressionUUID->"50a15e06-d75e-4737-b525-\
+2b0c1d788ca2"],
+
+Cell["tiktok video data (can be scraped using online resources) ", "Item",
+ CellChangeTimes->{{3.9326406012755694`*^9, 3.9326406671311016`*^9}, {
+  3.9333342118897433`*^9, 3.933334223123549*^9}, {3.9333346320069475`*^9, 
+  3.9333346659317136`*^9}},ExpressionUUID->"44d011c3-d949-47b4-8e3d-\
+211cd7f21d6b"]
+}, Open  ]],
+
+Cell["Do you have any code showing your project is viable?", "Subsection",
+ CellChangeTimes->{{3.9326407432398252`*^9, 
+  3.932640755317156*^9}},ExpressionUUID->"6b2e4664-36c6-4eea-bdb2-\
+97e309ebc1b1"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Planning", "Section",
+ CellChangeTimes->{{3.9326405820560746`*^9, 
+  3.932640584311746*^9}},ExpressionUUID->"37fbeb3f-cfb4-4205-b3a6-\
+5a4833d03f14"],
+
+Cell[CellGroupData[{
+
+Cell["When will you meet with your group? How often? For how long?", \
+"Subsection",
+ CellChangeTimes->{{3.932640682993993*^9, 
+  3.9326406987296624`*^9}},ExpressionUUID->"85560201-fd16-4e1e-8ec3-\
+3cf833c52d74"],
+
+Cell["On Sundays", "Item",
+ CellChangeTimes->{{3.932640964733412*^9, 3.9326409726101894`*^9}, {
+  3.93264106438093*^9, 3.9326410658605404`*^9}, {3.9333343890224066`*^9, 
+  3.933334393199439*^9}},ExpressionUUID->"515588c6-f9c1-4f2c-ad91-\
+eeff0900dfaa"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Where are you keeping your task list?", "Subsection",
+ CellChangeTimes->{{3.9326407047946463`*^9, 
+  3.9326407129131017`*^9}},ExpressionUUID->"7d8ddb5f-929e-477d-9a1a-\
+25c7010fc91c"],
+
+Cell["\<\
+https://www.notion.so/WELP-2024-Task-List-c30a51eb415842fba97d7b542df4d0bb?\
+pvs=4\
+\>", "Item",
+ CellChangeTimes->{{3.9326407146981072`*^9, 3.932640722207868*^9}, 
+   3.933334361652288*^9},ExpressionUUID->"f097a5c8-f60f-482e-a2e9-\
+bf047c853e1f"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Outline your Sprints (recommended 3-6)", "Subsection",
+ CellChangeTimes->{{3.932640766665433*^9, 3.9326407747249637`*^9}, {
+  3.932640806115764*^9, 3.9326408216103244`*^9}, {3.9326408679197583`*^9, 
+  3.932640905806187*^9}},ExpressionUUID->"b25c310f-875c-46f4-9958-\
+5368491b7e83"],
+
+Cell[CellGroupData[{
+
+Cell["Sprint 1", "Subsubsection",
+ CellChangeTimes->{{3.9326407770150886`*^9, 
+  3.9326407794765906`*^9}},ExpressionUUID->"777144a9-08db-46c4-907e-\
+a7ce2c284c25"],
+
+Cell["2 weeks", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9326408845119143`*^9, 3.93264088963034*^9}, {3.934805837776311*^9, 
+  3.934805838547678*^9}},ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-\
+22c87c11c130"],
+
+Cell["\<\
+Analyze most liked, most watched, most commented, etc. creator\
+\>", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9348057211224957`*^9, 3.934805722287024*^9}, {3.934805768806694*^9, 
+  3.934805808127349*^9}},ExpressionUUID->"d858120b-293f-442f-bd6d-\
+42e5fb1ab297"],
+
+Cell["\<\
+Be able to determine a users most liked, watched, and commented, creator from \
+tiktok data\
+\>", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409178713927`*^9}, {3.934805815108333*^9, 
+  3.934805834046214*^9}},ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-\
+cdd57a326552"],
+
+Cell["Each of us will take one stat ", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409241252007`*^9}, {3.934805925886683*^9, 
+  3.934805932995482*^9}},ExpressionUUID->"3d567ec8-b520-45b0-a847-\
+0069d05f1c5d"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Sprint 2", "Subsubsection",
+ CellChangeTimes->{{3.9326407770150886`*^9, 
+  3.932640789060408*^9}},ExpressionUUID->"3cfba3fa-766d-4f11-98b0-\
+6bd03209640c"],
+
+Cell["2 weeks", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9326408845119143`*^9, 3.93264088963034*^9}, {3.934805837776311*^9, 
+  3.934805838547678*^9}},ExpressionUUID->"54d51406-71ab-4574-af6c-\
+158777354f56"],
+
+Cell["\<\
+Analyzing videos and hashtag and being able to output a users most popular \
+trends \
+\>", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9348057211224957`*^9, 3.934805722287024*^9}, {3.934805768806694*^9, 
+  3.934805808127349*^9}, {3.934806056293005*^9, 
+  3.9348060860052633`*^9}},ExpressionUUID->"25724b24-a700-44de-9486-\
+730db3effb94"],
+
+Cell["Show a users most popular trends", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+   3.932640893654584*^9, 3.9326409178713927`*^9}, {3.934805815108333*^9, 
+   3.934805834046214*^9}, 3.9348072175606947`*^9, {3.934808388476972*^9, 
+   3.93480839485925*^9}},ExpressionUUID->"63d8bd4f-3f73-4023-8ab8-\
+7d824d801dc1"],
+
+Cell["Each of us will take one stat ", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409241252007`*^9}, {3.934805925886683*^9, 
+  3.934805932995482*^9}, {3.934806048041217*^9, 
+  3.934806048858972*^9}},ExpressionUUID->"0ec96e00-50c6-48f8-a1b8-\
+454ef0709d5d"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Sprint 3", "Subsubsection",
+ CellChangeTimes->{{3.9326407770150886`*^9, 
+  3.9326407924521923`*^9}},ExpressionUUID->"db8c80f1-b5df-4281-b017-\
+b2641b307708"],
+
+Cell["3-4 weeks", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9326408845119143`*^9, 3.93264088963034*^9}, {3.934805837776311*^9, 
+  3.934805838547678*^9}, {3.934806037041245*^9, 
+  3.93480604436134*^9}},ExpressionUUID->"fa8e9a90-0c9f-4bfc-8e4b-\
+9d333de01a5c"],
+
+Cell["Creating an interface - data visuailzation", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9348057211224957`*^9, 3.934805722287024*^9}, {3.934805768806694*^9, 
+  3.934805808127349*^9}, {3.9348059637723503`*^9, 3.934805967775255*^9}, {
+  3.934806029578815*^9, 
+  3.934806034235093*^9}},ExpressionUUID->"e86cdfc9-51a4-460e-a4a6-\
+ce753ef35035"],
+
+Cell["\<\
+Make it so a user is able to interact with our project in a simple way (ex: \
+put in their tiktok data file and get results)\
+\>", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409178713927`*^9}, {3.934805815108333*^9, 
+  3.934805834046214*^9}, {3.934805970263533*^9, 
+  3.934805996372507*^9}},ExpressionUUID->"6ef8b368-2ca3-45e0-bedc-\
+398f3bc11057"],
+
+Cell["Work on it asynchronously over the time period", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409241252007`*^9}, {3.934805925886683*^9, 
+  3.934805932995482*^9}, {3.934806001550563*^9, 
+  3.934806020444998*^9}},ExpressionUUID->"0a6cd51d-47b8-41b7-b346-\
+c3c1c6b40268"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Sprint 4", "Subsubsection",
+ CellChangeTimes->{{3.9326407770150886`*^9, 
+  3.932640793732336*^9}},ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-\
+d5d0607e8c97"],
+
+Cell["2 weeks", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9326408845119143`*^9, 3.93264088963034*^9}, {3.934805837776311*^9, 
+  3.934805838547678*^9}, {3.934806037041245*^9, 3.93480604436134*^9}, {
+  3.9348070753279333`*^9, 
+  3.9348070762798233`*^9}},ExpressionUUID->"24c8e26f-48cb-41a1-a1e8-\
+f7c859a042d9"],
+
+Cell["Analyzing user messages", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640828765165*^9}, {
+  3.9348057211224957`*^9, 3.934805722287024*^9}, {3.934805768806694*^9, 
+  3.934805808127349*^9}, {3.9348059637723503`*^9, 3.934805967775255*^9}, {
+  3.934806029578815*^9, 3.934806034235093*^9}, {3.934807078040485*^9, 
+  3.934807081132625*^9}},ExpressionUUID->"020c7bd9-456c-4b53-9dd9-\
+857f3ab39c11"],
+
+Cell["Be able to show most chatted with user, and most used words", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409178713927`*^9}, {3.934805815108333*^9, 
+  3.934805834046214*^9}, {3.934805970263533*^9, 3.934805996372507*^9}, {
+  3.934807084272579*^9, 
+  3.93480712814999*^9}},ExpressionUUID->"a71727ad-ebd0-49b8-b583-\
+42f1d065e8f4"],
+
+Cell["\<\
+Work on it asynchronously over the time period; one person works on most \
+chatted with user, one on most used works in chats, another on most commented \
+words\
+\>", "Item",
+ CellChangeTimes->{{3.932640825766139*^9, 3.932640858440374*^9}, {
+  3.932640893654584*^9, 3.9326409241252007`*^9}, {3.934805925886683*^9, 
+  3.934805932995482*^9}, {3.934806001550563*^9, 3.934806020444998*^9}, {
+  3.934807132088564*^9, 
+  3.934807197238557*^9}},ExpressionUUID->"5c819e31-0986-4c0d-8d70-\
+36a7aa1b5e58"]
+}, Open  ]],
+
+Cell["Sprint 5", "Subsubsection",
+ CellChangeTimes->{{3.9326407770150886`*^9, 
+  3.932640795348503*^9}},ExpressionUUID->"1d31dc94-4f7d-4d12-a614-\
+7249739a119b"],
+
+Cell["Sprint 6", "Subsubsection",
+ CellChangeTimes->{{3.9326407770150886`*^9, 
+  3.9326407970192423`*^9}},ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-\
+a752f50023c4"]
+}, Open  ]],
+
+Cell["", "Subsection",
+ CellChangeTimes->{{3.9326407328955264`*^9, 
+  3.9326407333913255`*^9}},ExpressionUUID->"f822194b-66f2-42a1-a446-\
+9e39ec36aed1"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1266, 911},
+WindowMargins->{{Automatic, 26}, {Automatic, 12}},
+FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 16, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"2df8595c-6ff7-4174-8fca-aa8f34befa19"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[583, 22, 175, 3, 98, "Title",ExpressionUUID->"6fa11ccf-833d-400b-bf79-9f665167763d"],
+Cell[761, 27, 290, 6, 35, "Text",ExpressionUUID->"7f08a4a5-6eab-4599-917e-aebc910bff6d"],
+Cell[1054, 35, 652, 15, 71, "Subsubsection",ExpressionUUID->"340e4c11-fddc-4442-a0c7-9a2b79ace5e7"],
+Cell[CellGroupData[{
+Cell[1731, 54, 237, 4, 53, "Section",ExpressionUUID->"10bafbe1-592b-45cf-808e-00dcd1ca779e"],
+Cell[1971, 60, 209, 4, 32, "Item",ExpressionUUID->"7a05d5dd-fd01-4cdc-a978-dea6221a509c"],
+Cell[2183, 66, 206, 4, 32, "Item",ExpressionUUID->"b1df6ac2-3e40-4722-9e66-4f3c901dd3b7"],
+Cell[2392, 72, 204, 4, 32, "Item",ExpressionUUID->"5c8cb775-116e-47fe-a603-0db560ce3d6b"],
+Cell[2599, 78, 251, 5, 32, "Item",ExpressionUUID->"174bde7f-8271-4b41-9155-24e9d3252669"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2887, 88, 275, 4, 67, "Section",ExpressionUUID->"06b0599b-453d-4eab-ae13-60906a025f20"],
+Cell[CellGroupData[{
+Cell[3187, 96, 214, 4, 54, "Subsection",ExpressionUUID->"2c33dd60-4667-4b37-a553-84894fc6dbe4"],
+Cell[3404, 102, 499, 9, 35, "Text",ExpressionUUID->"bcc05137-809f-41d3-a0fa-850b979a3d82"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3940, 116, 176, 3, 54, "Subsection",ExpressionUUID->"c86aec2c-fd32-4652-88f7-735aa8d61498"],
+Cell[4119, 121, 403, 8, 35, "Text",ExpressionUUID->"95a5b8ba-c458-42a5-a190-eb06e4e66a71"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4559, 134, 191, 3, 54, "Subsection",ExpressionUUID->"d3ab1dbd-aae1-48c8-a294-0f9468c4838f"],
+Cell[4753, 139, 307, 7, 35, "Text",ExpressionUUID->"bdcbeb44-8b99-4de5-af83-cdfdb5a9c612"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5097, 151, 170, 3, 54, "Subsection",ExpressionUUID->"f7028b93-422b-40b4-b4ff-90ecb3958416"],
+Cell[5270, 156, 316, 6, 32, "Item",ExpressionUUID->"50a15e06-d75e-4737-b525-2b0c1d788ca2"],
+Cell[5589, 164, 305, 4, 32, "Item",ExpressionUUID->"44d011c3-d949-47b4-8e3d-211cd7f21d6b"]
+}, Open  ]],
+Cell[5909, 171, 202, 3, 54, "Subsection",ExpressionUUID->"6b2e4664-36c6-4eea-bdb2-97e309ebc1b1"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6148, 179, 155, 3, 67, "Section",ExpressionUUID->"37fbeb3f-cfb4-4205-b3a6-5a4833d03f14"],
+Cell[CellGroupData[{
+Cell[6328, 186, 212, 4, 54, "Subsection",ExpressionUUID->"85560201-fd16-4e1e-8ec3-3cf833c52d74"],
+Cell[6543, 192, 252, 4, 32, "Item",ExpressionUUID->"515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6832, 201, 189, 3, 54, "Subsection",ExpressionUUID->"7d8ddb5f-929e-477d-9a1a-25c7010fc91c"],
+Cell[7024, 206, 257, 6, 32, "Item",ExpressionUUID->"f097a5c8-f60f-482e-a2e9-bf047c853e1f"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[7318, 217, 287, 4, 54, "Subsection",ExpressionUUID->"b25c310f-875c-46f4-9958-5368491b7e83"],
+Cell[CellGroupData[{
+Cell[7630, 225, 163, 3, 45, "Subsubsection",ExpressionUUID->"777144a9-08db-46c4-907e-a7ce2c284c25"],
+Cell[7796, 230, 245, 4, 32, "Item",ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],
+Cell[8044, 236, 309, 6, 32, "Item",ExpressionUUID->"d858120b-293f-442f-bd6d-42e5fb1ab297"],
+Cell[8356, 244, 338, 7, 32, "Item",ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-cdd57a326552"],
+Cell[8697, 253, 269, 4, 32, "Item",ExpressionUUID->"3d567ec8-b520-45b0-a847-0069d05f1c5d"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9003, 262, 161, 3, 45, "Subsubsection",ExpressionUUID->"3cfba3fa-766d-4f11-98b0-6bd03209640c"],
+Cell[9167, 267, 245, 4, 32, "Item",ExpressionUUID->"54d51406-71ab-4574-af6c-158777354f56"],
+Cell[9415, 273, 382, 8, 32, "Item",ExpressionUUID->"25724b24-a700-44de-9486-730db3effb94"],
+Cell[9800, 283, 346, 5, 32, "Item",ExpressionUUID->"63d8bd4f-3f73-4023-8ab8-7d824d801dc1"],
+Cell[10149, 290, 318, 5, 32, "Item",ExpressionUUID->"0ec96e00-50c6-48f8-a1b8-454ef0709d5d"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[10504, 300, 163, 3, 45, "Subsubsection",ExpressionUUID->"db8c80f1-b5df-4281-b017-b2641b307708"],
+Cell[10670, 305, 295, 5, 32, "Item",ExpressionUUID->"fa8e9a90-0c9f-4bfc-8e4b-9d333de01a5c"],
+Cell[10968, 312, 381, 6, 32, "Item",ExpressionUUID->"e86cdfc9-51a4-460e-a4a6-ce753ef35035"],
+Cell[11352, 320, 420, 8, 32, "Item",ExpressionUUID->"6ef8b368-2ca3-45e0-bedc-398f3bc11057"],
+Cell[11775, 330, 334, 5, 32, "Item",ExpressionUUID->"0a6cd51d-47b8-41b7-b346-c3c1c6b40268"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[12146, 340, 161, 3, 45, "Subsubsection",ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],
+Cell[12310, 345, 346, 6, 32, "Item",ExpressionUUID->"24c8e26f-48cb-41a1-a1e8-f7c859a042d9"],
+Cell[12659, 353, 408, 6, 32, "Item",ExpressionUUID->"020c7bd9-456c-4b53-9dd9-857f3ab39c11"],
+Cell[13070, 361, 395, 6, 32, "Item",ExpressionUUID->"a71727ad-ebd0-49b8-b583-42f1d065e8f4"],
+Cell[13468, 369, 505, 10, 32, "Item",ExpressionUUID->"5c819e31-0986-4c0d-8d70-36a7aa1b5e58"]
+}, Open  ]],
+Cell[13988, 382, 161, 3, 45, "Subsubsection",ExpressionUUID->"1d31dc94-4f7d-4d12-a614-7249739a119b"],
+Cell[14152, 387, 163, 3, 37, "Subsubsection",ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-a752f50023c4"]
+}, Open  ]],
+Cell[14330, 393, 152, 3, 54, "Subsection",ExpressionUUID->"f822194b-66f2-42a1-a446-9e39ec36aed1"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
