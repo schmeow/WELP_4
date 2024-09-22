@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookDataLength[     79993,       1377]
-NotebookOptionsPosition[     73853,       1271]
-NotebookOutlinePosition[     74251,       1287]
-CellTagsIndexPosition[     74208,       1284]
+NotebookDataLength[     80346,       1382]
+NotebookOptionsPosition[     74109,       1275]
+NotebookOutlinePosition[     74507,       1291]
+CellTagsIndexPosition[     74464,       1288]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -187,40 +187,148 @@ Cell["Do you have any code showing your project is viable?", "Subsection",
 Cell[CellGroupData[{
 
 Cell[BoxData[
- RowBox[{"fsounds", " ", "=", " ", 
+ RowBox[{"data", " ", "=", " ", 
+  RowBox[{
+  "CloudImport", "[", 
+   "\"\<https://www.wolframcloud.com/obj/anmuchhal112/user_data_tiktok.json\>\
+\"", "]"}]}]], "Input",
+ CellChangeTimes->{{3.936015381388215*^9, 3.936015395302619*^9}, {
+  3.936015478814034*^9, 3.936015480011529*^9}},
+ CellLabel->"In[67]:=",ExpressionUUID->"3c9d1c63-7a7a-4f1e-936b-ef722e48bc6b"],
+
+Cell[BoxData[
+ TemplateBox[<|"shortenedBoxes" -> TagBox[
+     RowBox[{"{", 
+       RowBox[{
+         RowBox[{"\"Activity\"", "\[Rule]", 
+           RowBox[{"{", 
+             RowBox[{
+               RowBox[{"\"Favorite Effects\"", "\[Rule]", 
+                 RowBox[{"{", 
+                   RowBox[{"\"FavoriteEffectsList\"", "\[Rule]", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2024-01-12 22:42:09\""}], ",", 
+                    
+                    RowBox[{"\"EffectLink\"", "\[Rule]", 
+                    "\"https://m.tiktok.com/share/stickers/detail/141856144.\
+html\""}]}], "}"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2023-11-13 02:16:20\""}], ",", 
+                    
+                    RowBox[{"\"EffectLink\"", "\[Rule]", 
+                    "\"https://m.tiktok.com/share/stickers/detail/24778892.\
+html\""}]}], "}"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2023-09-30 02:28:17\""}], ",", 
+                    
+                    RowBox[{"\"EffectLink\"", "\[Rule]", 
+                    "\"https://m.tiktok.com/share/stickers/detail/85647872.\
+html\""}]}], "}"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2022-01-21 03:16:18\""}], ",", 
+                    
+                    RowBox[{"\"EffectLink\"", "\[Rule]", 
+                    "\"https://m.tiktok.com/share/stickers/detail/1243890.\
+html\""}]}], "}"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2019-12-01 18:22:09\""}], ",", 
+                    
+                    RowBox[{"\"EffectLink\"", "\[Rule]", 
+                    "\"https://m.tiktok.com/share/stickers/detail/430648.html\
+\""}]}], "}"}]}], "}"}]}], "}"}]}], ",", 
+               RowBox[{"\"Favorite Hashtags\"", "\[Rule]", 
+                 RowBox[{"{", 
+                   TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], "}"}]}], 
+               ",", 
+               TemplateBox[{"10"}, "OutputSizeLimit`Skeleton"], ",", 
+               TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], ",", 
+               RowBox[{"\"Video Browsing History\"", "\[Rule]", 
+                 RowBox[{"{", 
+                   RowBox[{"\"VideoList\"", "\[Rule]", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2024-08-22 14:55:41\""}], ",", 
+                    
+                    RowBox[{"\"Link\"", "\[Rule]", 
+                    "\"https://www.tiktokv.com/share/video/\
+7400030219811310878/\""}]}], "}"}], ",", 
+                    TemplateBox[{"86403"}, "OutputSizeLimit`Skeleton"], ",", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    
+                    RowBox[{"\"Date\"", "\[Rule]", 
+                    "\"2024-02-24 00:19:32\""}], ",", 
+                    RowBox[{"\"Link\"", "\[Rule]", 
+                    
+                    RowBox[{"\"https://ww\"", "\[Ellipsis]", 
+                    "\"8900785450/\""}]}]}], "}"}]}], "}"}]}], "}"}]}]}], 
+             "}"}]}], ",", 
+         TemplateBox[{"10"}, "OutputSizeLimit`Skeleton"]}], "}"}], 
+     Short[#, 8]& ], "line" -> 67, "sessionID" -> 17608670600309882113, 
+   "byteCount" -> 46655824, "size" -> 8, "stored" -> False, "expr" -> 
+   Missing["NotStored"], "wrap" -> OutputSizeLimit`Defer, "version" -> 1|>,
+  "OutputSizeLimitTemplate"]], "Output",
+ CellChangeTimes->{3.9360154835819473`*^9},
+ CellLabel->"Out[67]=",ExpressionUUID->"8388fb4a-6a2b-4fde-a53c-156964b5edfb"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ftags", " ", "=", " ", 
   RowBox[{
    RowBox[{
     RowBox[{"(", 
-     RowBox[{"\"\<FavoriteEffectsList\>\"", "/.", 
+     RowBox[{"\"\<FavoriteHashtagList\>\"", "/.", 
       RowBox[{
        RowBox[{
         RowBox[{
-         RowBox[{
-          RowBox[{
-          "Import", "[", 
-           "\"\</Users/annum/Downloads/user_data_tiktok.json\>\"", "]"}], "[", 
+         RowBox[{"data", "[", 
           RowBox[{"[", "1", "]"}], "]"}], "[", 
          RowBox[{"[", "2", "]"}], "]"}], "[", 
-        RowBox[{"[", "1", "]"}], "]"}], "[", 
+        RowBox[{"[", "2", "]"}], "]"}], "[", 
        RowBox[{"[", "2", "]"}], "]"}]}], ")"}], "[", 
     RowBox[{"[", 
      RowBox[{"All", ",", "2"}], "]"}], "]"}], "[", 
    RowBox[{"[", 
     RowBox[{"All", ",", "2"}], "]"}], "]"}]}]], "Input",
- CellChangeTimes->{{3.936014548383862*^9, 3.936014711248721*^9}},
- CellLabel->"In[42]:=",ExpressionUUID->"e71192d5-1961-429f-a5bf-85148ac1a93a"],
+ CellChangeTimes->{{3.936014991760001*^9, 3.9360150989476624`*^9}, {
+  3.936015225757422*^9, 3.936015248571686*^9}, {3.9360154965306253`*^9, 
+  3.9360154973361807`*^9}},
+ CellLabel->"In[68]:=",ExpressionUUID->"05861275-d297-4c4e-8360-11def3934ddc"],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{"\<\"https://m.tiktok.com/share/stickers/detail/141856144.html\"\>",
-    ",", "\<\"https://m.tiktok.com/share/stickers/detail/24778892.html\"\>", 
-   ",", "\<\"https://m.tiktok.com/share/stickers/detail/85647872.html\"\>", 
-   ",", "\<\"https://m.tiktok.com/share/stickers/detail/1243890.html\"\>", 
-   ",", "\<\"https://m.tiktok.com/share/stickers/detail/430648.html\"\>"}], 
+  RowBox[{"\<\"https://m.tiktok.com/h5/share/tag/1630634027063301.html\"\>", 
+   ",", "\<\"https://m.tiktok.com/h5/share/tag/1628476992181253.html\"\>", 
+   ",", "\<\"https://m.tiktok.com/h5/share/tag/1607515251894277.html\"\>", 
+   ",", "\<\"https://m.tiktok.com/h5/share/tag/51071316.html\"\>", 
+   ",", "\<\"https://m.tiktok.com/h5/share/tag/1600824828630022.html\"\>"}], 
   "}"}]], "Output",
- CellChangeTimes->{{3.936014552575643*^9, 3.936014622536333*^9}, {
-  3.936014662026457*^9, 3.9360147125350657`*^9}},
- CellLabel->"Out[42]=",ExpressionUUID->"5979385e-f6ea-474c-935c-038fbee7f87e"]
+ CellChangeTimes->{{3.936014996349943*^9, 3.93601509967885*^9}, {
+   3.936015231690813*^9, 3.936015250151416*^9}, 3.9360154988127832`*^9},
+ CellLabel->"Out[68]=",ExpressionUUID->"6588fb7c-20b9-4510-b882-75447062ab87"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -235,11 +343,7 @@ Cell[BoxData[
        RowBox[{
         RowBox[{
          RowBox[{
-          RowBox[{
-           RowBox[{
-           "Import", "[", 
-            "\"\</Users/annum/Downloads/user_data_tiktok.json\>\"", "]"}], 
-           "[", 
+          RowBox[{"data", "[", 
            RowBox[{"[", "1", "]"}], "]"}], "[", 
           RowBox[{"[", "2", "]"}], "]"}], "[", 
          RowBox[{"[", "4", "]"}], "]"}], "[", 
@@ -255,8 +359,8 @@ Cell[BoxData[
   3.93601406818366*^9, 3.936014074775955*^9}, {3.9360141397780733`*^9, 
   3.936014246291768*^9}, {3.9360142980119963`*^9, 3.936014379591984*^9}, {
   3.936014457144109*^9, 3.9360144701208572`*^9}, {3.936014529750441*^9, 
-  3.9360145439819593`*^9}},
- CellLabel->"In[27]:=",ExpressionUUID->"ff7f87a1-b18e-4924-857d-ef3d8ec4a40f"],
+  3.9360145439819593`*^9}, {3.936015503732024*^9, 3.93601550403458*^9}},
+ CellLabel->"In[69]:=",ExpressionUUID->"ff7f87a1-b18e-4924-857d-ef3d8ec4a40f"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -930,119 +1034,13 @@ Cell[BoxData[
    ",", "\<\"https://www.tiktokv.com/share/video/6749974852985179397/\"\>"}], 
   "}"}]], "Output",
  CellChangeTimes->{{3.9360140703010473`*^9, 3.936014075872044*^9}, {
-  3.936014143418133*^9, 3.9360141992149897`*^9}, {3.936014296234223*^9, 
-  3.9360142991871967`*^9}, {3.9360143298754463`*^9, 3.9360143447074738`*^9}, {
-  3.936014376916526*^9, 3.9360143803068733`*^9}, {3.9360144612035913`*^9, 
-  3.93601447161709*^9}, {3.93601454049047*^9, 3.936014544706135*^9}},
- CellLabel->"Out[27]=",ExpressionUUID->"dbd89acb-4a6a-463f-9320-839c190bc140"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"data2", " ", "=", " ", 
-  RowBox[{
-  "Import", "[", "\"\</Users/annum/Downloads/user_data_tiktok.json\>\"", 
-   "]"}]}]], "Input",
- CellChangeTimes->{{3.936014151118573*^9, 3.9360141529761267`*^9}},
- CellLabel->"In[4]:=",ExpressionUUID->"1154dd5f-2f53-4f9f-904c-c0429aa77e55"],
-
-Cell[BoxData[
- TemplateBox[<|"shortenedBoxes" -> TagBox[
-     RowBox[{"{", 
-       RowBox[{
-         RowBox[{"\"Activity\"", "\[Rule]", 
-           RowBox[{"{", 
-             RowBox[{
-               RowBox[{"\"Favorite Effects\"", "\[Rule]", 
-                 RowBox[{"{", 
-                   RowBox[{"\"FavoriteEffectsList\"", "\[Rule]", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2024-01-12 22:42:09\""}], ",", 
-                    
-                    RowBox[{"\"EffectLink\"", "\[Rule]", 
-                    "\"https://m.tiktok.com/share/stickers/detail/141856144.\
-html\""}]}], "}"}], ",", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2023-11-13 02:16:20\""}], ",", 
-                    
-                    RowBox[{"\"EffectLink\"", "\[Rule]", 
-                    "\"https://m.tiktok.com/share/stickers/detail/24778892.\
-html\""}]}], "}"}], ",", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2023-09-30 02:28:17\""}], ",", 
-                    
-                    RowBox[{"\"EffectLink\"", "\[Rule]", 
-                    "\"https://m.tiktok.com/share/stickers/detail/85647872.\
-html\""}]}], "}"}], ",", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2022-01-21 03:16:18\""}], ",", 
-                    
-                    RowBox[{"\"EffectLink\"", "\[Rule]", 
-                    "\"https://m.tiktok.com/share/stickers/detail/1243890.\
-html\""}]}], "}"}], ",", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2019-12-01 18:22:09\""}], ",", 
-                    
-                    RowBox[{"\"EffectLink\"", "\[Rule]", 
-                    "\"https://m.tiktok.com/share/stickers/detail/430648.html\
-\""}]}], "}"}]}], "}"}]}], "}"}]}], ",", 
-               RowBox[{"\"Favorite Hashtags\"", "\[Rule]", 
-                 RowBox[{"{", 
-                   TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], "}"}]}], 
-               ",", 
-               TemplateBox[{"10"}, "OutputSizeLimit`Skeleton"], ",", 
-               TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], ",", 
-               RowBox[{"\"Video Browsing History\"", "\[Rule]", 
-                 RowBox[{"{", 
-                   RowBox[{"\"VideoList\"", "\[Rule]", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2024-08-22 14:55:41\""}], ",", 
-                    
-                    RowBox[{"\"Link\"", "\[Rule]", 
-                    "\"https://www.tiktokv.com/share/video/\
-7400030219811310878/\""}]}], "}"}], ",", 
-                    TemplateBox[{"86403"}, "OutputSizeLimit`Skeleton"], ",", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    
-                    RowBox[{"\"Date\"", "\[Rule]", 
-                    "\"2024-02-24 00:19:32\""}], ",", 
-                    RowBox[{"\"Link\"", "\[Rule]", 
-                    
-                    RowBox[{"\"https://ww\"", "\[Ellipsis]", 
-                    "\"8900785450/\""}]}]}], "}"}]}], "}"}]}], "}"}]}]}], 
-             "}"}]}], ",", 
-         TemplateBox[{"10"}, "OutputSizeLimit`Skeleton"]}], "}"}], 
-     Short[#, 8]& ], "line" -> 4, "sessionID" -> 17608670600309882113, 
-   "byteCount" -> 46655824, "size" -> 8, "stored" -> False, "expr" -> 
-   Missing["NotStored"], "wrap" -> OutputSizeLimit`Defer, "version" -> 1|>,
-  "OutputSizeLimitTemplate"]], "Output",
- CellChangeTimes->{3.9360141545197687`*^9},
- CellLabel->"Out[4]=",ExpressionUUID->"58348339-4364-44ee-b29c-753f033e0b9e"]
-}, Open  ]]
+   3.936014143418133*^9, 3.9360141992149897`*^9}, {3.936014296234223*^9, 
+   3.9360142991871967`*^9}, {3.9360143298754463`*^9, 
+   3.9360143447074738`*^9}, {3.936014376916526*^9, 3.9360143803068733`*^9}, {
+   3.9360144612035913`*^9, 3.93601447161709*^9}, {3.93601454049047*^9, 
+   3.936014544706135*^9}, 3.9360155044564447`*^9},
+ CellLabel->"Out[69]=",ExpressionUUID->"04c4d611-1090-43b7-83c5-266e62bf6af8"]
+}, Closed]]
 }, Open  ]]
 }, Open  ]],
 
@@ -1061,10 +1059,16 @@ Cell["When will you meet with your group? How often? For how long?", \
   3.9326406987296624`*^9}},ExpressionUUID->"85560201-fd16-4e1e-8ec3-\
 3cf833c52d74"],
 
-Cell["On Sundays", "Item",
- CellChangeTimes->{{3.932640964733412*^9, 3.9326409726101894`*^9}, {
-  3.93264106438093*^9, 3.9326410658605404`*^9}, {3.9333343890224066`*^9, 
-  3.933334393199439*^9}},ExpressionUUID->"515588c6-f9c1-4f2c-ad91-\
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.9360156252479773`*^9, 
+  3.936015625929419*^9}},ExpressionUUID->"0ce14d68-f876-4159-8411-\
+dc6eca4a1274"],
+
+Cell["Every Sunday at 1pm for 1-2 hours", "Item",
+ CellChangeTimes->{{3.932640964733412*^9, 3.9326409726101885`*^9}, {
+  3.93264106438093*^9, 3.93264106586054*^9}, {3.933334389022407*^9, 
+  3.933334393199439*^9}, {3.9360156269505796`*^9, 
+  3.936015648425459*^9}},ExpressionUUID->"515588c6-f9c1-4f2c-ad91-\
 eeff0900dfaa"]
 }, Open  ]],
 
@@ -1270,7 +1274,7 @@ Cell["", "Subsection",
 }, Open  ]]
 },
 WindowSize->{1266, 911},
-WindowMargins->{{Automatic, 3}, {-19, Automatic}},
+WindowMargins->{{157, Automatic}, {Automatic, 0}},
 FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 16, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"2df8595c-6ff7-4174-8fca-aa8f34befa19"
@@ -1320,63 +1324,64 @@ Cell[5708, 169, 360, 7, 32, "Item",ExpressionUUID->"44d011c3-d949-47b4-8e3d-211c
 Cell[CellGroupData[{
 Cell[6105, 181, 202, 3, 54, "Subsection",ExpressionUUID->"6b2e4664-36c6-4eea-bdb2-97e309ebc1b1"],
 Cell[CellGroupData[{
-Cell[6332, 188, 816, 22, 30, "Input",ExpressionUUID->"e71192d5-1961-429f-a5bf-85148ac1a93a"],
-Cell[7151, 212, 631, 10, 77, "Output",ExpressionUUID->"5979385e-f6ea-474c-935c-038fbee7f87e"]
+Cell[6332, 188, 377, 8, 30, "Input",ExpressionUUID->"3c9d1c63-7a7a-4f1e-936b-ef722e48bc6b"],
+Cell[6712, 198, 4154, 94, 185, "Output",ExpressionUUID->"8388fb4a-6a2b-4fde-a53c-156964b5edfb"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[7819, 227, 1183, 31, 52, "Input",ExpressionUUID->"ff7f87a1-b18e-4924-857d-ef3d8ec4a40f"],
-Cell[9005, 260, 51933, 676, 7028, "Output",ExpressionUUID->"dbd89acb-4a6a-463f-9320-839c190bc140"]
+Cell[10903, 297, 806, 21, 30, "Input",ExpressionUUID->"05861275-d297-4c4e-8360-11def3934ddc"],
+Cell[11712, 320, 642, 10, 77, "Output",ExpressionUUID->"6588fb7c-20b9-4510-b882-75447062ab87"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[60975, 941, 300, 6, 30, "Input",ExpressionUUID->"1154dd5f-2f53-4f9f-904c-c0429aa77e55"],
-Cell[61278, 949, 4152, 94, 185, "Output",ExpressionUUID->"58348339-4364-44ee-b29c-753f033e0b9e"]
+Cell[12391, 335, 1101, 27, 52, "Input",ExpressionUUID->"ff7f87a1-b18e-4924-857d-ef3d8ec4a40f"],
+Cell[13495, 364, 51965, 677, 7028, "Output",ExpressionUUID->"04c4d611-1090-43b7-83c5-266e62bf6af8"]
+}, Closed]]
 }, Open  ]]
-}, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[65491, 1050, 155, 3, 67, "Section",ExpressionUUID->"37fbeb3f-cfb4-4205-b3a6-5a4833d03f14"],
+Cell[65521, 1048, 155, 3, 67, "Section",ExpressionUUID->"37fbeb3f-cfb4-4205-b3a6-5a4833d03f14"],
 Cell[CellGroupData[{
-Cell[65671, 1057, 212, 4, 54, "Subsection",ExpressionUUID->"85560201-fd16-4e1e-8ec3-3cf833c52d74"],
-Cell[65886, 1063, 252, 4, 32, "Item",ExpressionUUID->"515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]
+Cell[65701, 1055, 212, 4, 54, "Subsection",ExpressionUUID->"85560201-fd16-4e1e-8ec3-3cf833c52d74"],
+Cell[65916, 1061, 154, 3, 30, "Input",ExpressionUUID->"0ce14d68-f876-4159-8411-dc6eca4a1274"],
+Cell[66073, 1066, 321, 5, 32, "Item",ExpressionUUID->"515588c6-f9c1-4f2c-ad91-eeff0900dfaa"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[66175, 1072, 189, 3, 54, "Subsection",ExpressionUUID->"7d8ddb5f-929e-477d-9a1a-25c7010fc91c"],
-Cell[66367, 1077, 257, 6, 32, "Item",ExpressionUUID->"f097a5c8-f60f-482e-a2e9-bf047c853e1f"]
+Cell[66431, 1076, 189, 3, 54, "Subsection",ExpressionUUID->"7d8ddb5f-929e-477d-9a1a-25c7010fc91c"],
+Cell[66623, 1081, 257, 6, 32, "Item",ExpressionUUID->"f097a5c8-f60f-482e-a2e9-bf047c853e1f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[66661, 1088, 287, 4, 54, "Subsection",ExpressionUUID->"b25c310f-875c-46f4-9958-5368491b7e83"],
+Cell[66917, 1092, 287, 4, 54, "Subsection",ExpressionUUID->"b25c310f-875c-46f4-9958-5368491b7e83"],
 Cell[CellGroupData[{
-Cell[66973, 1096, 163, 3, 45, "Subsubsection",ExpressionUUID->"777144a9-08db-46c4-907e-a7ce2c284c25"],
-Cell[67139, 1101, 245, 4, 32, "Item",ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],
-Cell[67387, 1107, 309, 6, 32, "Item",ExpressionUUID->"d858120b-293f-442f-bd6d-42e5fb1ab297"],
-Cell[67699, 1115, 338, 7, 32, "Item",ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-cdd57a326552"],
-Cell[68040, 1124, 269, 4, 32, "Item",ExpressionUUID->"3d567ec8-b520-45b0-a847-0069d05f1c5d"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[68346, 1133, 161, 3, 45, "Subsubsection",ExpressionUUID->"3cfba3fa-766d-4f11-98b0-6bd03209640c"],
-Cell[68510, 1138, 245, 4, 32, "Item",ExpressionUUID->"54d51406-71ab-4574-af6c-158777354f56"],
-Cell[68758, 1144, 382, 8, 32, "Item",ExpressionUUID->"25724b24-a700-44de-9486-730db3effb94"],
-Cell[69143, 1154, 346, 5, 32, "Item",ExpressionUUID->"63d8bd4f-3f73-4023-8ab8-7d824d801dc1"],
-Cell[69492, 1161, 318, 5, 32, "Item",ExpressionUUID->"0ec96e00-50c6-48f8-a1b8-454ef0709d5d"]
+Cell[67229, 1100, 163, 3, 45, "Subsubsection",ExpressionUUID->"777144a9-08db-46c4-907e-a7ce2c284c25"],
+Cell[67395, 1105, 245, 4, 32, "Item",ExpressionUUID->"e7075b6a-6dbf-4a6a-8f4e-22c87c11c130"],
+Cell[67643, 1111, 309, 6, 32, "Item",ExpressionUUID->"d858120b-293f-442f-bd6d-42e5fb1ab297"],
+Cell[67955, 1119, 338, 7, 32, "Item",ExpressionUUID->"840a8c97-5e4c-4d8c-aa69-cdd57a326552"],
+Cell[68296, 1128, 269, 4, 32, "Item",ExpressionUUID->"3d567ec8-b520-45b0-a847-0069d05f1c5d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[69847, 1171, 163, 3, 45, "Subsubsection",ExpressionUUID->"db8c80f1-b5df-4281-b017-b2641b307708"],
-Cell[70013, 1176, 295, 5, 32, "Item",ExpressionUUID->"fa8e9a90-0c9f-4bfc-8e4b-9d333de01a5c"],
-Cell[70311, 1183, 381, 6, 32, "Item",ExpressionUUID->"e86cdfc9-51a4-460e-a4a6-ce753ef35035"],
-Cell[70695, 1191, 420, 8, 32, "Item",ExpressionUUID->"6ef8b368-2ca3-45e0-bedc-398f3bc11057"],
-Cell[71118, 1201, 334, 5, 32, "Item",ExpressionUUID->"0a6cd51d-47b8-41b7-b346-c3c1c6b40268"]
+Cell[68602, 1137, 161, 3, 45, "Subsubsection",ExpressionUUID->"3cfba3fa-766d-4f11-98b0-6bd03209640c"],
+Cell[68766, 1142, 245, 4, 32, "Item",ExpressionUUID->"54d51406-71ab-4574-af6c-158777354f56"],
+Cell[69014, 1148, 382, 8, 32, "Item",ExpressionUUID->"25724b24-a700-44de-9486-730db3effb94"],
+Cell[69399, 1158, 346, 5, 32, "Item",ExpressionUUID->"63d8bd4f-3f73-4023-8ab8-7d824d801dc1"],
+Cell[69748, 1165, 318, 5, 32, "Item",ExpressionUUID->"0ec96e00-50c6-48f8-a1b8-454ef0709d5d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[71489, 1211, 161, 3, 45, "Subsubsection",ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],
-Cell[71653, 1216, 346, 6, 32, "Item",ExpressionUUID->"24c8e26f-48cb-41a1-a1e8-f7c859a042d9"],
-Cell[72002, 1224, 408, 6, 32, "Item",ExpressionUUID->"020c7bd9-456c-4b53-9dd9-857f3ab39c11"],
-Cell[72413, 1232, 395, 6, 32, "Item",ExpressionUUID->"a71727ad-ebd0-49b8-b583-42f1d065e8f4"],
-Cell[72811, 1240, 505, 10, 32, "Item",ExpressionUUID->"5c819e31-0986-4c0d-8d70-36a7aa1b5e58"]
+Cell[70103, 1175, 163, 3, 45, "Subsubsection",ExpressionUUID->"db8c80f1-b5df-4281-b017-b2641b307708"],
+Cell[70269, 1180, 295, 5, 32, "Item",ExpressionUUID->"fa8e9a90-0c9f-4bfc-8e4b-9d333de01a5c"],
+Cell[70567, 1187, 381, 6, 32, "Item",ExpressionUUID->"e86cdfc9-51a4-460e-a4a6-ce753ef35035"],
+Cell[70951, 1195, 420, 8, 32, "Item",ExpressionUUID->"6ef8b368-2ca3-45e0-bedc-398f3bc11057"],
+Cell[71374, 1205, 334, 5, 32, "Item",ExpressionUUID->"0a6cd51d-47b8-41b7-b346-c3c1c6b40268"]
 }, Open  ]],
-Cell[73331, 1253, 161, 3, 45, "Subsubsection",ExpressionUUID->"1d31dc94-4f7d-4d12-a614-7249739a119b"],
-Cell[73495, 1258, 163, 3, 37, "Subsubsection",ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-a752f50023c4"]
+Cell[CellGroupData[{
+Cell[71745, 1215, 161, 3, 45, "Subsubsection",ExpressionUUID->"a3a4a1a2-97a3-4325-bdd8-d5d0607e8c97"],
+Cell[71909, 1220, 346, 6, 32, "Item",ExpressionUUID->"24c8e26f-48cb-41a1-a1e8-f7c859a042d9"],
+Cell[72258, 1228, 408, 6, 32, "Item",ExpressionUUID->"020c7bd9-456c-4b53-9dd9-857f3ab39c11"],
+Cell[72669, 1236, 395, 6, 32, "Item",ExpressionUUID->"a71727ad-ebd0-49b8-b583-42f1d065e8f4"],
+Cell[73067, 1244, 505, 10, 32, "Item",ExpressionUUID->"5c819e31-0986-4c0d-8d70-36a7aa1b5e58"]
 }, Open  ]],
-Cell[73673, 1264, 152, 3, 54, "Subsection",ExpressionUUID->"f822194b-66f2-42a1-a446-9e39ec36aed1"]
+Cell[73587, 1257, 161, 3, 45, "Subsubsection",ExpressionUUID->"1d31dc94-4f7d-4d12-a614-7249739a119b"],
+Cell[73751, 1262, 163, 3, 37, "Subsubsection",ExpressionUUID->"a811f8dc-ea86-43a1-8cf8-a752f50023c4"]
+}, Open  ]],
+Cell[73929, 1268, 152, 3, 54, "Subsection",ExpressionUUID->"f822194b-66f2-42a1-a446-9e39ec36aed1"]
 }, Open  ]]
 }, Open  ]]
 }
