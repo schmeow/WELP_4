@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookDataLength[   2434029,      44498]
-NotebookOptionsPosition[   2417341,      44205]
-NotebookOutlinePosition[   2417740,      44221]
-CellTagsIndexPosition[   2417697,      44218]
+NotebookDataLength[   2423417,      44201]
+NotebookOptionsPosition[   2408407,      43936]
+NotebookOutlinePosition[   2408845,      43953]
+CellTagsIndexPosition[   2408802,      43950]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -10259,52 +10259,52 @@ Cell[BoxData[
            RowBox[{"restuarants", ",", "_"}], "]"}]}], "}"}]}], "]"}]}], 
      "]"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.939490364258849*^9, 3.9394903961696243`*^9}},
- CellLabel->"In[70]:=",ExpressionUUID->"6b3324cd-b7b8-4f9d-aa56-edd33b123bb5"],
+ CellLabel->"In[99]:=",ExpressionUUID->"6b3324cd-b7b8-4f9d-aa56-edd33b123bb5"],
 
 Cell[BoxData[
  TemplateBox[{
   "Part", "partw", 
    "\"Part \\!\\(\\*RowBox[{\\\"1\\\"}]\\) of \\!\\(\\*RowBox[{\\\"{\\\", \
-\\\"}\\\"}]\\) does not exist.\"", 2, 70, 29, 17631441147944009162, "Local"},
+\\\"}\\\"}]\\) does not exist.\"", 2, 99, 33, 17631441147944009162, "Local"},
   "MessageTemplate"]], "Message", "MSG",
- CellChangeTimes->{3.9394903966570463`*^9},
+ CellChangeTimes->{3.9394903966570463`*^9, 3.939491234925359*^9},
  CellLabel->
   "During evaluation of \
-In[70]:=",ExpressionUUID->"f3107956-ab4b-4f6b-94a7-c87be07b3909"],
+In[99]:=",ExpressionUUID->"7884d1d9-679f-4e29-a78a-961beaf9f618"],
 
 Cell[BoxData[
  TemplateBox[{
   "Part", "partw", 
    "\"Part \\!\\(\\*RowBox[{\\\"1\\\"}]\\) of \\!\\(\\*RowBox[{\\\"{\\\", \
-\\\"}\\\"}]\\) does not exist.\"", 2, 70, 30, 17631441147944009162, "Local"},
+\\\"}\\\"}]\\) does not exist.\"", 2, 99, 34, 17631441147944009162, "Local"},
   "MessageTemplate"]], "Message", "MSG",
- CellChangeTimes->{3.93949039672053*^9},
+ CellChangeTimes->{3.9394903966570463`*^9, 3.939491235039464*^9},
  CellLabel->
   "During evaluation of \
-In[70]:=",ExpressionUUID->"7c956485-bec0-4ebc-880f-5f234f003c98"],
+In[99]:=",ExpressionUUID->"1cbb859b-dcdf-4604-93f8-1a0b2245311f"],
 
 Cell[BoxData[
  TemplateBox[{
   "Part", "partw", 
    "\"Part \\!\\(\\*RowBox[{\\\"1\\\"}]\\) of \\!\\(\\*RowBox[{\\\"{\\\", \
-\\\"}\\\"}]\\) does not exist.\"", 2, 70, 31, 17631441147944009162, "Local"},
+\\\"}\\\"}]\\) does not exist.\"", 2, 99, 35, 17631441147944009162, "Local"},
   "MessageTemplate"]], "Message", "MSG",
- CellChangeTimes->{3.939490396747802*^9},
+ CellChangeTimes->{3.9394903966570463`*^9, 3.939491235066584*^9},
  CellLabel->
   "During evaluation of \
-In[70]:=",ExpressionUUID->"636075eb-f91f-45db-a11c-08549d3d4a51"],
+In[99]:=",ExpressionUUID->"effcce97-b32a-4214-802c-c66975af6086"],
 
 Cell[BoxData[
  TemplateBox[{
   "General", "stop", 
    "\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"Part\\\", \\\"::\\\", \
 \\\"partw\\\"}], \\\"MessageName\\\"]\\) will be suppressed during this \
-calculation.\"", 2, 70, 32, 17631441147944009162, "Local"},
+calculation.\"", 2, 99, 36, 17631441147944009162, "Local"},
   "MessageTemplate"]], "Message", "MSG",
- CellChangeTimes->{3.939490396768564*^9},
+ CellChangeTimes->{3.9394903966570463`*^9, 3.939491235093237*^9},
  CellLabel->
   "During evaluation of \
-In[70]:=",ExpressionUUID->"6760ae58-a7ec-40b0-918f-1e095eb6a1f9"],
+In[99]:=",ExpressionUUID->"24ff02aa-e35f-4f49-8622-7c4aefbc056b"],
 
 Cell[BoxData[
  GraphicsBox[{{
@@ -10961,8 +10961,9 @@ square/343418"|>|>, <|
   PlotRange->{{-277.82, 82.18}, {-90., 90.}},
   PlotRangeClipping->True,
   PlotRangePadding->None]], "Output",
- CellChangeTimes->{3.93949036817379*^9, 3.939490399792605*^9},
- CellLabel->"Out[70]=",ExpressionUUID->"2e441741-40df-455b-8d79-706cb0f4b281"]
+ CellChangeTimes->{3.93949036817379*^9, 3.939490399792605*^9, 
+  3.939491235122779*^9},
+ CellLabel->"Out[99]=",ExpressionUUID->"85fc3810-cf70-46ae-a1d7-15a05742131b"]
 }, Open  ]]
 }, Open  ]],
 
@@ -24914,12 +24915,12 @@ Cell[BoxData[
     ",", "_"}], "]"}]}]], "Input",
  CellChangeTimes->{{3.9390396466143265`*^9, 3.939039661967467*^9}, {
   3.939039709696108*^9, 3.93903971375025*^9}},
- CellLabel->"In[50]:=",ExpressionUUID->"822a2d22-96ab-45e8-a3a1-bee44c1aad33"],
+ CellLabel->"In[75]:=",ExpressionUUID->"822a2d22-96ab-45e8-a3a1-bee44c1aad33"],
 
 Cell[BoxData["5"], "Output",
  CellChangeTimes->{{3.93903965327544*^9, 3.939039662566768*^9}, 
-   3.9390397144016914`*^9},
- CellLabel->"Out[50]=",ExpressionUUID->"d3756e7f-e891-49a6-aa8b-b3f02a3341ae"]
+   3.9390397144016914`*^9, 3.93949065514832*^9},
+ CellLabel->"Out[75]=",ExpressionUUID->"78d4c457-50c3-412c-b0c8-1a62396a4b2c"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -24958,7 +24959,7 @@ Cell[BoxData[
      RowBox[{"[", "1", "]"}], "]"}], "&"}], "/@", 
    RowBox[{"Range", "[", "healthcare2", "]"}]}]}]], "Input",
  CellChangeTimes->{{3.9390398479420576`*^9, 3.939039893763212*^9}},
- CellLabel->"In[57]:=",ExpressionUUID->"3463b42f-6613-446d-a879-96ae50fb3ee8"],
+ CellLabel->"In[76]:=",ExpressionUUID->"3463b42f-6613-446d-a879-96ae50fb3ee8"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -24983,8 +24984,9 @@ Cell[BoxData[
     RowBox[{"{", 
      RowBox[{"42.3540642`", ",", 
       RowBox[{"-", "71.0560666`"}]}], "}"}], "]"}]}], "}"}]], "Output",
- CellChangeTimes->{{3.9390398777165356`*^9, 3.939039898975014*^9}},
- CellLabel->"Out[57]=",ExpressionUUID->"74e453ad-a2e8-46d6-b74b-fe248774d808"]
+ CellChangeTimes->{{3.9390398777165356`*^9, 3.939039898975014*^9}, 
+   3.939490659162148*^9},
+ CellLabel->"Out[76]=",ExpressionUUID->"38dbf3f5-77ed-4e7d-8dae-0d5db62022d2"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -27819,12 +27821,13 @@ Cell[BoxData[
  CellChangeTimes->{{3.939040155327305*^9, 3.939040161578634*^9}, {
   3.939040197594272*^9, 3.939040215332636*^9}, {3.939040350136442*^9, 
   3.9390403506462383`*^9}},
- CellLabel->"In[68]:=",ExpressionUUID->"1c633c62-2cf7-4d36-b1b9-f7ae1b31379d"],
+ CellLabel->"In[77]:=",ExpressionUUID->"1c633c62-2cf7-4d36-b1b9-f7ae1b31379d"],
 
 Cell[BoxData["0"], "Output",
  CellChangeTimes->{
-  3.939040162102974*^9, {3.9390401988851542`*^9, 3.939040215883638*^9}},
- CellLabel->"Out[68]=",ExpressionUUID->"632bc7cb-b45d-4d2c-967b-faae1c6da768"]
+  3.939040162102974*^9, {3.9390401988851542`*^9, 3.939040215883638*^9}, 
+   3.939490661179092*^9},
+ CellLabel->"Out[77]=",ExpressionUUID->"3e8b6a39-37fe-44da-a536-c4d891ff1745"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -27849,12 +27852,12 @@ Cell[BoxData[
  CellChangeTimes->{{3.9390401315673733`*^9, 3.939040131942182*^9}, {
   3.939040221975954*^9, 3.9390402263503013`*^9}, {3.939040364322944*^9, 
   3.939040364865862*^9}},
- CellLabel->"In[69]:=",ExpressionUUID->"a2eb5458-9c33-41ec-9a42-cadd7d4b3641"],
+ CellLabel->"In[78]:=",ExpressionUUID->"a2eb5458-9c33-41ec-9a42-cadd7d4b3641"],
 
 Cell[BoxData[
  RowBox[{"{", "}"}]], "Output",
- CellChangeTimes->{3.939040226688225*^9},
- CellLabel->"Out[69]=",ExpressionUUID->"033eb815-54e4-4881-88ed-329956886241"]
+ CellChangeTimes->{3.939040226688225*^9, 3.9394906622342157`*^9},
+ CellLabel->"Out[78]=",ExpressionUUID->"cc46380d-0184-498d-9340-805ef7de12c0"]
 }, Open  ]],
 
 Cell["\<\
@@ -27884,7 +27887,7 @@ Cell[BoxData[{
   ";"}], "\[IndentingNewLine]", 
  RowBox[{"govtOSM", "[", "\"\<Nodes\>\"", "]"}]}], "Input",
  CellChangeTimes->{{3.939040563612858*^9, 3.939040670539797*^9}},
- CellLabel->"In[74]:=",ExpressionUUID->"6799ee5a-be70-4ac5-b08e-0dcfbd4e7330"],
+ CellLabel->"In[79]:=",ExpressionUUID->"6799ee5a-be70-4ac5-b08e-0dcfbd4e7330"],
 
 Cell[BoxData[
  TemplateBox[<|"shortenedBoxes" -> TagBox[
@@ -27904,11 +27907,15 @@ Cell[BoxData[
          RowBox[{"\"64810647\"", "\[Rule]", 
            RowBox[{"\[LeftAssociation]", 
              RowBox[{
-               TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], ",", 
-               TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"]}], 
+               RowBox[{"\"Position\"", "\[Rule]", 
+                 RowBox[{"GeoPosition", "[", 
+                   RowBox[{"{", 
+                    RowBox[{"42.6423185`", ",", 
+                    RowBox[{"-", "71.3054746`"}]}], "}"}], "]"}]}], ",", 
+               RowBox[{"\"Tags\"", "\[Rule]", 
+                 RowBox[{"\[LeftAssociation]", "\[RightAssociation]"}]}]}], 
              "\[RightAssociation]"}]}], ",", 
-         TemplateBox[{"8593"}, "OutputSizeLimit`Skeleton"], ",", 
-         TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], ",", 
+         TemplateBox[{"8594"}, "OutputSizeLimit`Skeleton"], ",", 
          RowBox[{"\"12067114605\"", "\[Rule]", 
            RowBox[{"\[LeftAssociation]", 
              RowBox[{
@@ -27939,11 +27946,15 @@ Cell[BoxData[
                     "\"name\"", "\[Rule]", 
                     "\"Merrimack River below Concord River at Lowell\""}], 
                     ",", 
-                    RowBox[{"\"official_name\"", "\[Rule]", 
                     
                     RowBox[{
-                    "\"MERRIMACK\"", "\[Ellipsis]", "\"LOWELL, MA\""}]}], ",", 
-                    TemplateBox[{"1"}, "OutputSizeLimit`Skeleton"], ",", 
+                    "\"official_name\"", "\[Rule]", 
+                    "\"MERRIMACK RIVER BL CONCORD RIVER AT LOWELL, MA\""}], 
+                    ",", 
+                    
+                    RowBox[{
+                    "\"operator\"", "\[Rule]", 
+                    "\"United States Geological Survey\""}], ",", 
                     RowBox[{"\"operator:short\"", "\[Rule]", "\"USGS\""}], 
                     ",", 
                     
@@ -27966,13 +27977,13 @@ Cell[BoxData[
                     "\"website:1\"", "\[Rule]", 
                     "\"https://water.noaa.gov/gauges/lowm3\""}]}], 
                    "\[RightAssociation]"}]}]}], "\[RightAssociation]"}]}]}], 
-       "\[RightAssociation]"}], Short[#, 8]& ], "line" -> 75, "sessionID" -> 
-   28681242971398067326, "byteCount" -> 7021904, "size" -> 8, "stored" -> 
-   False, "expr" -> Missing["NotAvailable", "NewSessionID"], "wrap" -> 
-   OutputSizeLimit`Defer, "version" -> 1|>,
+       "\[RightAssociation]"}], Short[#, 8]& ], "line" -> 80, "sessionID" -> 
+   17631441147944009162, "byteCount" -> 6999160, "size" -> 8, "stored" -> 
+   False, "expr" -> Missing["NotStored"], "wrap" -> OutputSizeLimit`Defer, 
+   "version" -> 1|>,
   "OutputSizeLimitTemplate"]], "Output",
- CellChangeTimes->{3.9390406767535486`*^9},
- CellLabel->"Out[75]=",ExpressionUUID->"35b83828-c46f-4892-bab9-c94c04c1504e"]
+ CellChangeTimes->{3.9390406767535486`*^9, 3.939490665788007*^9},
+ CellLabel->"Out[80]=",ExpressionUUID->"db0d828e-4cd7-4b0b-b1f4-3b825d96a969"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -28040,7 +28051,7 @@ Cell[BoxData[
            "\"\<ComputableData\>\""}], "}"}]}], "]"}], ",", 
        "\"\<Imperial\>\""}], "]"}], "*", 
      RowBox[{"Quantity", "[", 
-      RowBox[{"10", ",", "\"\<minutes\>\""}], "]"}]}]}], "\n", 
+      RowBox[{"10", ",", "\"\<minutes\>\""}], "]"}]}]}], 
    "\[IndentingNewLine]", 
    RowBox[{"over30Min", "=", 
     RowBox[{
@@ -28059,36 +28070,36 @@ Cell[BoxData[
  CellChangeTimes->{{3.937821479809538*^9, 3.937821493939478*^9}, {
    3.937821533423443*^9, 3.937821567842449*^9}, 3.937823278172861*^9, {
    3.93782332664666*^9, 3.9378234315661335`*^9}, {3.937823642251192*^9, 
-   3.937823694406896*^9}},
- CellLabel->
-  "In[150]:=",ExpressionUUID->"a97416a0-8243-45a1-a257-79c283ab491a"],
+   3.937823694406896*^9}, 
+   3.939490672286417*^9},ExpressionUUID->"a97416a0-8243-45a1-a257-\
+79c283ab491a"],
 
 Cell[BoxData[
  TemplateBox[{"0.20833333333333334`", "\"mi\"", "miles", "\"Miles\""},
   "Quantity"]], "Output",
  CellChangeTimes->{
   3.937823280548538*^9, {3.93782341136479*^9, 3.937823419798916*^9}, {
-   3.9378236884304276`*^9, 3.937823696139183*^9}, 3.938366199287199*^9},
- CellLabel->
-  "Out[150]=",ExpressionUUID->"553eb01d-b85b-474e-9dcf-be449520fd0f"],
+   3.9378236884304276`*^9, 3.937823696139183*^9}, 3.938366199287199*^9, 
+   3.93949067049235*^9},
+ CellLabel->"Out[81]=",ExpressionUUID->"f932387b-ea3e-4c35-b630-b8782be5a37c"],
 
 Cell[BoxData[
  TemplateBox[{"0.4166666666666667`", "\"mi\"", "miles", "\"Miles\""},
   "Quantity"]], "Output",
  CellChangeTimes->{
   3.937823280548538*^9, {3.93782341136479*^9, 3.937823419798916*^9}, {
-   3.9378236884304276`*^9, 3.937823696139183*^9}, 3.938366200554371*^9},
- CellLabel->
-  "Out[151]=",ExpressionUUID->"d17705b6-4c26-43c3-81cf-4e404df8fc41"],
+   3.9378236884304276`*^9, 3.937823696139183*^9}, 3.938366199287199*^9, 
+   3.939490671643578*^9},
+ CellLabel->"Out[82]=",ExpressionUUID->"0ce812dd-7fc9-463e-9bce-e5390059fb39"],
 
 Cell[BoxData[
  TemplateBox[{"1.25`", "\"mi\"", "miles", "\"Miles\""},
   "Quantity"]], "Output",
  CellChangeTimes->{
   3.937823280548538*^9, {3.93782341136479*^9, 3.937823419798916*^9}, {
-   3.9378236884304276`*^9, 3.937823696139183*^9}, 3.938366201474407*^9},
- CellLabel->
-  "Out[152]=",ExpressionUUID->"f1180f63-275f-4f9c-bb3a-e87922ed6e91"]
+   3.9378236884304276`*^9, 3.937823696139183*^9}, 3.938366199287199*^9, 
+   3.939490672383272*^9},
+ CellLabel->"Out[83]=",ExpressionUUID->"bc2b069b-7bb0-4cea-88c2-7e126e762137"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -28118,8 +28129,7 @@ Cell[BoxData[{
  CellChangeTimes->{{3.937823000944231*^9, 3.937823000944231*^9}, {
    3.937823722277764*^9, 3.9378237228462086`*^9}, 3.937824556690687*^9, {
    3.938361793644609*^9, 3.9383617942591534`*^9}},
- CellLabel->
-  "In[153]:=",ExpressionUUID->"5ebc01ca-99dc-4318-a07a-aec6cb610e73"]
+ CellLabel->"In[84]:=",ExpressionUUID->"5ebc01ca-99dc-4318-a07a-aec6cb610e73"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -34448,8 +34458,7 @@ Cell[BoxData[
     " ", "searchList"}]}], ";"}]], "Input",
  CellChangeTimes->{{3.937823930664156*^9, 3.937823937382831*^9}, 
    3.9378243666324806`*^9},
- CellLabel->
-  "In[167]:=",ExpressionUUID->"4e60490f-60fc-4565-a90e-fa1b2812e2c7"],
+ CellLabel->"In[86]:=",ExpressionUUID->"4e60490f-60fc-4565-a90e-fa1b2812e2c7"],
 
 Cell[BoxData[
  RowBox[{
@@ -34461,8 +34470,7 @@ Cell[BoxData[
   ";"}]], "Input",
  CellChangeTimes->{{3.937824137654829*^9, 3.93782419499831*^9}, {
   3.9378244494803314`*^9, 3.9378244536611633`*^9}},
- CellLabel->
-  "In[168]:=",ExpressionUUID->"1e097f2e-1fd7-42f5-8b5e-b5e320fbe7dc"],
+ CellLabel->"In[88]:=",ExpressionUUID->"1e097f2e-1fd7-42f5-8b5e-b5e320fbe7dc"],
 
 Cell[CellGroupData[{
 
@@ -34470,14 +34478,13 @@ Cell[BoxData[
  RowBox[{"Count", "[", 
   RowBox[{"dataVisualization", ",", "_"}], "]"}]], "Input",
  CellChangeTimes->{{3.937825239508316*^9, 3.93782524555402*^9}},
- CellLabel->
-  "In[169]:=",ExpressionUUID->"078687b9-2dd9-4f79-8492-55e26ebe6cfb"],
+ CellLabel->"In[89]:=",ExpressionUUID->"078687b9-2dd9-4f79-8492-55e26ebe6cfb"],
 
 Cell[BoxData["297"], "Output",
- CellChangeTimes->{3.937825246701868*^9, 3.93836622068054*^9, 
-  3.9383666091751328`*^9},
- CellLabel->
-  "Out[169]=",ExpressionUUID->"178dd094-5f6a-465e-83a1-faf581b0d88b"]
+ CellChangeTimes->{
+  3.937825246701868*^9, 3.93836622068054*^9, 3.9383666091751328`*^9, {
+   3.939490678985015*^9, 3.93949068157598*^9}},
+ CellLabel->"Out[89]=",ExpressionUUID->"71f81284-a0a2-4053-9e31-33e2da444350"]
 }, Open  ]]
 }, Open  ]],
 
@@ -36318,280 +36325,231 @@ Cell[BoxData[
    3.937823261210985*^9, {3.9378234504221153`*^9, 3.937823455130928*^9}, {
    3.937823630456648*^9, 3.937823636988344*^9}, 3.937823675601635*^9, {
    3.9378245078042316`*^9, 3.937824511490391*^9}},
- CellLabel->
-  "In[160]:=",ExpressionUUID->"3448559f-da6b-4e36-91a9-765503128e9b"],
+ CellLabel->"In[90]:=",ExpressionUUID->"3448559f-da6b-4e36-91a9-765503128e9b"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{
-   TemplateBox[{"0.1967045814727509`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.19379145706634612`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"780.8275653665`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"745.0799499700743`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"677.8293836212872`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"639.1307758635337`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"731.9121212344543`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"688.209253031422`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"749.7019288963845`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"704.3515136226561`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"530.2188710776171`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"514.767677922048`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"556.1386367696992`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"535.7168508657787`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"516.6763937346924`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"504.77984529279814`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"641.5703677576297`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"603.687698013877`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"543.2076454540298`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"520.7051633982118`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.1912444141484264`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.20691130824318266`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.1958071889223067`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.20754968180330988`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2040253570432467`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.20498816021299862`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"993.7827637248835`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"705.7988191634969`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"997.5527468557841`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"662.1328977432258`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2065260371427773`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"667.7731040247452`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"983.1741050389186`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"713.250511675341`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2035306747353807`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"531.0282120651043`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19394943548373164`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"953.4182740401803`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19517232197325107`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"890.7795731492026`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19024397051002662`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"945.5871075695925`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19085710791248553`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"925.5925814293265`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20472994679503403`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"967.781883829566`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20566153540577617`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"479.4527760428226`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20653400633362373`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"988.0208532256331`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2065491071073564`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"999.3186146167527`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19807506590008303`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"663.7099331068184`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"757.1037867094735`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"910.696492109291`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"720.7094026305053`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"845.5802843191118`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"724.6155934019376`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"928.1210273003992`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"777.1338552893366`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"792.4122544014208`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"628.1672867848798`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"423.45038312067095`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"975.3320561612795`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"535.6146785097676`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"900.4828173262794`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"546.5756843749994`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"880.5425282964837`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"580.2493413675404`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"952.0709144723451`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"62.30014573384557`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"969.8692273677527`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"978.2572235947218`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"568.6065651326243`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"0.20241573286365216`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"907.2834719436233`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"0.19154357885760534`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20571082669846238`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"787.2738091119088`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19863285696864064`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"830.8968547634639`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"905.6116445800385`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"999.0162134243542`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"590.2419219495316`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"843.1799286087683`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"881.2896172682322`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"989.4576065268841`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"773.7948943455558`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"0.1913819981983394`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"833.821838649379`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"974.8055405789738`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2064759132041884`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.191780191970763`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"752.9297221074316`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"696.5142573544298`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"357.3412677469608`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"721.51521477634`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"486.70449836163493`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"800.9992924437811`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"497.6217134415818`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"866.3614316176336`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"582.0525496145495`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"679.6119127512452`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"163.30657101631616`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"592.5444388149236`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"876.8818345925525`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"754.4833090301529`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"967.1797681984893`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"784.4616197721642`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"919.4672601583868`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"724.671408534762`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2028319842771013`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"657.374618934208`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"685.9894826001084`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"661.1190048842014`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"729.777233940811`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"618.0312728163599`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.19940046209835116`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"951.9685036836396`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.1944074862363092`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"889.4839354735119`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"876.2434533881369`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"886.3023948662312`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"895.398697922838`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"535.2572136792778`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"918.7438750139429`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"564.9518086992705`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"873.9564965379312`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"876.1933202437685`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"911.2943600439573`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"728.5055721897485`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"725.7017419453603`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"711.0257738069599`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"770.2988691496961`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"959.7748191785574`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"716.6895923068143`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"0.1977910288052304`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"776.1534510786892`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"838.9631791390318`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"705.9248573674921`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"840.6389922583597`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"597.3118458943881`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"654.4577993383898`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"676.4337392178141`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"842.9306907761858`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"701.7110124160815`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"797.239305279255`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"757.5967238075128`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"625.1472152071826`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"700.5618709590979`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"857.6140246655997`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"704.5931505717182`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"941.0461887690342`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"626.71039015942`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"916.8026104977488`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"851.0592075691685`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"713.8454654676176`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"788.9544706711006`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"721.1184070684492`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"785.8449213610281`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"959.1700508984513`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"473.6480120355989`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"812.2137527530174`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"503.4787929431497`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"796.6414330441481`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"822.9055992061188`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"638.0976719207675`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"672.1460558602796`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"647.0142922073768`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"654.3098179402873`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"734.7288842252813`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"907.6521745171362`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"664.7958901201804`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"993.7799218793184`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"618.91333355332`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.1995651556539351`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"607.1847496263833`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"872.2432245103547`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"601.7210581815561`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"873.9883314220772`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"0.20159781469627358`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"676.1555940908569`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"889.0257743566907`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"865.405359045209`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"868.4023042356355`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"824.54174114647`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"878.2905174311211`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"623.0059609483263`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"539.8088304021545`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"879.0940855035876`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"863.0375577906218`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20541199432478063`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"987.4254559684944`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2060310868220386`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"981.7771374272461`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2076208626882137`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"969.1053083320988`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"883.0707018683489`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"920.5852808671892`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"816.7847099667222`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"552.1376165541346`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"736.5711926165851`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"848.8158042203951`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"744.8978539337273`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"824.4544754693616`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"858.7380899420255`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"909.2091981422575`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"725.648165776062`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"851.2789733428644`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"], ",", 
-   TemplateBox[{"762.0900577360833`", "\"ft\"", "feet", "\"Feet\""},
+   TemplateBox[{"0.20314764575978972`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"655.9527961888136`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"666.9654484632027`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"769.1489276555512`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"688.3663220811056`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"632.6741078132338`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"616.8949133459555`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"608.8825810497289`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"965.1549769635848`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"789.8733097765846`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"768.8409136265288`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"778.9237013405693`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"485.620537986387`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"761.8236519025402`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"886.4472461946576`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"885.830861469655`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"873.2617082627509`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"873.4500747170365`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"494.2796754379364`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"747.2363505679546`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"722.94288189541`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"807.7478227113336`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"749.7393052238741`", "\"ft\"", "feet", "\"Feet\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.20724500939663762`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.20815759069280354`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.19273342563904003`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"989.6248410506089`", "\"ft\"", "feet", "\"Feet\""},
     "Quantity"]}], "}"}]], "Output",
  CellChangeTimes->{{3.9378230607535877`*^9, 3.937823100784813*^9}, 
    3.9378234559914093`*^9, 3.937823534566124*^9, {3.937823631359888*^9, 
    3.937823637891037*^9}, 3.9378236762533817`*^9, 3.937824513949901*^9, {
-   3.937824588641659*^9, 3.937824591295515*^9}, 3.9383662333757086`*^9},
- CellLabel->
-  "Out[160]=",ExpressionUUID->"9ec4384a-be97-45b3-a797-4087180e36a4"]
+   3.937824588641659*^9, 3.937824591295515*^9}, 3.9383662333757086`*^9, 
+   3.939490698068368*^9},
+ CellLabel->"Out[90]=",ExpressionUUID->"138a5480-beaf-46ab-8f5b-e2924f8e605c"]
 }, Open  ]]
 }, Open  ]],
 
@@ -36618,356 +36576,401 @@ Cell[BoxData[{
      RowBox[{"over10Min", " ", "<", "#", "<", "over30Min"}], "&"}]}], 
    "]"}]}]}], "Input",
  CellChangeTimes->{{3.93782502560881*^9, 3.937825123226042*^9}},
- CellLabel->
-  "In[161]:=",ExpressionUUID->"5aae94e0-25f1-4a5e-b825-10937e6409a9"],
+ CellLabel->"In[91]:=",ExpressionUUID->"5aae94e0-25f1-4a5e-b825-10937e6409a9"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{
-   TemplateBox[{"0.35298400324596135`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3366364812066772`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22960738167762706`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24495113118819947`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2844405770930816`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.29708335220484244`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2335231882003437`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.25059660664697153`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.29868062899991094`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2819644049871684`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2660633693481575`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.27955745492863315`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20850945549068126`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.20948804870451748`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2168265886266588`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21358988502044085`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.210588693513228`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22318892119547912`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3668278717838847`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22342273253347417`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.25366031002918926`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22068995891816376`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.29031636870192323`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2119269455885416`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2961487004209556`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2132896497970697`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2393164217020573`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.20872114402115316`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2780438377356775`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.20926152642866952`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2831788311182523`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2217755926568949`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.28514637649135277`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2226232057823906`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2919558919088636`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22769426366078388`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.28084901491277`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23592535809831267`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2882019660593222`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.229731329023393`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2841185518552275`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22571693716387697`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.27440044776341127`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22572493037301758`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.28591591390205084`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21727151297480765`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.28644559424698335`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.35798597621355305`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.27980053602622473`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.26548730083214156`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.28194365922702996`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.30261553973215727`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21995653812209892`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.30797481338936245`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.33373079352262214`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2514799811080885`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.35599175645116515`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.28886457864078957`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22392715480517927`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.29575130975173164`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21477746097808031`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.29734601362541746`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2951042547103422`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.30421723725012206`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.29608355272437387`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.29329759142278305`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4034101537715243`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.30026600737608283`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.36592010850695744`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.29643281853460834`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22679299553876306`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2871902193692069`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23116900571771543`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2986364431398977`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.25627895474115314`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.29876221680247594`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.37376362704159705`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2921928377465242`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21563316998819432`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.294449709266824`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21235201321992614`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23268429151061878`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21786550158979673`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22051764186511058`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22395265137018866`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21306030352023533`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3737793874510199`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.34323412558383143`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21179087954516485`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.36694024843282946`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23563653766920342`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22334381843487972`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22248155536941988`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23338719886060302`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22380681976759081`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3084652076897242`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22241076111217903`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2974278054381723`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2213225884826997`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3846940542728973`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23564574622422152`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3557133446622214`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21208697809916485`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24200875788069726`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2564932079420879`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2377477273054693`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.27600280609193784`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2718910090961335`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2805898203950783`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.38679643816923215`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24944133992193826`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23181033741175144`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3640052766546543`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22898379469284733`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3500434747127956`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23390508992844486`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22099219816151242`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23953701618090256`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2760103485246652`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2256386904540239`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4001068636166881`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.38635299098577397`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.36747663436437394`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23057063988835952`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22567513008901416`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2535215286719892`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.34829004536490027`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24144153509204422`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3974841368679615`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24296533546095467`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3698281643614781`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24034396137848782`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3845111617323456`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23927687334738762`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.32245332821371425`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2524197402852242`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2096961693709659`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2118296691558011`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2326734700544`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21756249118568644`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2985362636261516`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.26607388417852845`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24398662890413048`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.28888248881221645`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.27392424413001315`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2804983613379474`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24459324114811196`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2662573433895465`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2485367599441621`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.35465553287663476`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24598576935350264`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3374749691852154`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.38791219933166987`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2402081477107075`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.26430518246366275`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.28958071240351263`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3522043156191692`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3885468933102718`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3791241045048947`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3566163919558875`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.41425737561949744`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21468151061388682`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22373378713889136`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22409421794233353`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2278098897717616`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3296147632532531`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22353999169086927`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.37880055694074305`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22479675146194622`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.35074750032683355`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21876414865190655`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3701231850295424`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3279041843775708`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3197123904244474`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3486075207877917`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2239786032597875`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.36940703667495045`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.25075217852717707`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.386387684592434`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.31262527824641345`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3892807434272804`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2585219008694871`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22780228367850688`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.28835924356818915`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2321491900619871`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.26174886817029624`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23603106971601712`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2647889487067603`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23092431971708316`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.26233464168252807`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23008341133858823`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.36999965271267654`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21267994088300735`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2458566664552549`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20912757567322626`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4139811357346633`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23608234092737407`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.33430309759919064`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23592607019524048`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.36006478745482606`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22868405693806157`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.40989601295983247`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22868491310646366`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3950302937206356`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22956147746634806`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.41063594778198037`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22771883834483986`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.40019036091022064`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2837789271990645`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2397398564669727`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22554124207750098`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22677895502969567`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22310402822302824`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.22167357209873587`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2756699608789996`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4088519250338125`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.20840651212865688`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.41422661811730077`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24256899923235284`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24258742666992966`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21416030505573005`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4128215331472674`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.38044284246276105`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23798151048308466`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.28686993747481576`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2171359460371838`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.242244179621088`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.32531039679823925`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2789469899334949`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.3353967431835602`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22363994469543966`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.35744051251596637`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2204039381871811`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.37428118826298795`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2572066417970133`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.37792688177294115`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.269341449471065`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24680953988529938`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24828659950704546`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2511281154863971`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.25513327337845854`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.25496942343895`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2271220347462181`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23602492328071667`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.22899569010826665`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23518353882114967`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23972743681386152`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21176305721237002`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2388213160283635`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2156849026915779`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.3006485565872473`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21021066342232422`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.25029142405728544`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21295842619363867`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.21462418051786114`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24753500302297438`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23808221472832156`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.24743041424400228`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24731734731810387`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.21777479689702905`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.23362219369153633`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23704626820275063`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.24611072282716467`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23683735737590578`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2380108216672309`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.23731880398651561`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.2424810195972409`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.2351983419858402`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.29638265821670495`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.23898661179811134`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.23634134322800368`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2900230300105902`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.21891564640979524`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2600868667623393`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2126180382970142`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.3911181637469376`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2990263478668007`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.25103282696364504`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.29325118291030094`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2425335895690168`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2385441111087475`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.27284747328970654`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.28494763605131596`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2651829876717283`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.4038600557574228`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.27160473529469287`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.22709785456083936`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.22821203868801154`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2392687791391327`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2378547768902828`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.3139178543216762`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2619410532280801`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.22785801014566426`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.22497140553915929`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2530628518851978`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.2643067350557761`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.24873120929437725`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.26232922533301856`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.22593344300702686`", "\"mi\"", "miles", "\"Miles\""},
+    "Quantity"], ",", 
+   TemplateBox[{"0.23024795670732726`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"]}], "}"}]], "Output",
  CellChangeTimes->{{3.9378250890098*^9, 3.937825124356813*^9}, 
-   3.938366252598982*^9},
- CellLabel->
-  "Out[161]=",ExpressionUUID->"8b9696fe-4979-4a12-b67e-1652d042738e"],
+   3.938366252598982*^9, 3.939490699349039*^9},
+ CellLabel->"Out[91]=",ExpressionUUID->"810862de-806c-47b1-abb1-dedef784e1f1"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{
-   TemplateBox[{"0.4682590168385329`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4511734869068731`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4903605001030025`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.47705184572537623`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.54843655792951`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.5332238591395555`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.5367159111926192`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.5216018580994762`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.5251008855055257`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.5092263091758512`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4438242815721842`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.424614393414192`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.5153652201962662`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.5017713829389367`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.5093186418041434`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4945068403036139`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.5026676230250915`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4883674649637735`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4641264255645832`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4503045266209288`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4597322129866266`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4429950635266146`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.463188151488734`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.44643360785563174`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.44680850171326625`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4275948191059608`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4784420202535538`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.46131068947581805`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4328499061056793`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4433799139589262`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.46223636606076807`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.46035401591194103`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.47754405079771955`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.43563421072292996`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4537475975487277`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4564055388308736`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4290744451719695`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4562236099779771`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4287623171556861`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.45646205248451466`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4183071372042509`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4560595918148891`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4753004598601335`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.45755137322169437`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.4749271283980539`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4369245328129012`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"], ",", 
-   TemplateBox[{"0.47513383227074246`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.47472374964688063`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.4760873091776792`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.4265592086184495`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.43197896962303495`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.4294136962281769`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.4488808788979387`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.5129447876120986`", "\"mi\"", "miles", "\"Miles\""},
-    "Quantity"], ",", 
-   TemplateBox[{"0.41761830620805573`", "\"mi\"", "miles", "\"Miles\""},
+   TemplateBox[{"0.4992796709811095`", "\"mi\"", "miles", "\"Miles\""},
     "Quantity"]}], "}"}]], "Output",
  CellChangeTimes->{{3.9378250890098*^9, 3.937825124356813*^9}, 
-   3.938366252678831*^9},
- CellLabel->
-  "Out[162]=",ExpressionUUID->"bd555096-f840-4992-8f80-1ed1cd20790c"]
+   3.938366252598982*^9, 3.9394906993803596`*^9},
+ CellLabel->"Out[92]=",ExpressionUUID->"04677ca1-0945-443b-b345-8ec444a49749"]
 }, Open  ]]
 }, Open  ]],
 
@@ -36997,14 +37000,12 @@ Cell[BoxData[
  CellChangeTimes->{{3.937824596266627*^9, 3.937824621370779*^9}, {
   3.9378246565452003`*^9, 3.937824657006857*^9}, {3.937825205928482*^9, 
   3.9378252073696938`*^9}},
- CellLabel->
-  "In[165]:=",ExpressionUUID->"b88b3e71-cefb-458a-96b1-840f690fe5fd"],
+ CellLabel->"In[93]:=",ExpressionUUID->"b88b3e71-cefb-458a-96b1-840f690fe5fd"],
 
-Cell[BoxData["131"], "Output",
+Cell[BoxData["107"], "Output",
  CellChangeTimes->{3.937824623018673*^9, 3.93782465759593*^9, 
-  3.937825209269037*^9, 3.938366273864361*^9},
- CellLabel->
-  "Out[165]=",ExpressionUUID->"976f09d3-e3a5-430a-857b-84365fb33520"]
+  3.937825209269037*^9, 3.938366273864361*^9, 3.939490702461486*^9},
+ CellLabel->"Out[93]=",ExpressionUUID->"741d0387-63d1-4317-b78c-4b059ada69e1"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -37018,211 +37019,17 @@ Cell[BoxData[{
   RowBox[{"Count", "[", 
    RowBox[{"nodesUnder30Minutes", ",", "_"}], "]"}]}]}], "Input",
  CellChangeTimes->{{3.9378252133831606`*^9, 3.937825228751118*^9}},
- CellLabel->
-  "In[163]:=",ExpressionUUID->"980cdaf5-e2ea-4c70-bd90-0dfc394d3ca5"],
+ CellLabel->"In[94]:=",ExpressionUUID->"980cdaf5-e2ea-4c70-bd90-0dfc394d3ca5"],
 
-Cell[BoxData["134"], "Output",
- CellChangeTimes->{3.937825230418846*^9, 3.9383662715151653`*^9},
- CellLabel->
-  "Out[163]=",ExpressionUUID->"9b3ddb4f-b6a0-41fd-b1ff-39b052ce7334"],
+Cell[BoxData["166"], "Output",
+ CellChangeTimes->{3.937825230418846*^9, 3.9383662715151653`*^9, 
+  3.93949070394621*^9},
+ CellLabel->"Out[94]=",ExpressionUUID->"1be359a5-200a-4c02-9b39-2fdb449eb7d9"],
 
-Cell[BoxData["32"], "Output",
- CellChangeTimes->{3.937825230418846*^9, 3.9383662715217857`*^9},
- CellLabel->
-  "Out[164]=",ExpressionUUID->"9208f86f-e9a4-4b82-bc9c-d238e93d0c70"]
-}, Open  ]]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell["\<\
-everything under is basically a mess. i was trying to get the geo positions \
-based on the list i made out of the flattened values above. now im thinking \
-it might be easier to make it into an association\
-\>", "Item",
- CellChangeTimes->{{3.938366290857294*^9, 3.938366302603449*^9}, {
-  3.938366368382826*^9, 
-  3.93836639899049*^9}},ExpressionUUID->"27f560b7-c5b2-4903-85b8-\
-612b7290252b"],
-
-Cell[BoxData[
- RowBox[{"MemberQ", "[", 
-  RowBox[{
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"x", "^", "2"}], ",", 
-     RowBox[{"y", "^", "2"}], ",", 
-     RowBox[{"x", "^", "3"}]}], "}"}], ",", 
-   RowBox[{"x", "^", "_"}]}], "]"}]], "Input",ExpressionUUID->"977374ab-ac1a-\
-4748-8d96-cf4ca4360001"],
-
-Cell[BoxData[
- RowBox[{"dataVisualization", ";"}]], "Input",
- CellChangeTimes->{{3.937828634349777*^9, 3.937828658158146*^9}, 
-   3.937828769297377*^9, 3.937828863432148*^9},
- CellLabel->
-  "In[228]:=",ExpressionUUID->"ac8ef707-91ac-47f4-8fa6-5f3edbe50fe3"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{
-  RowBox[{
-   RowBox[{"MemberQ", "[", 
-    RowBox[{"dataVisualization", ",", 
-     RowBox[{"{", 
-      RowBox[{"_", ",", "#"}], "}"}]}], "]"}], "&"}], "/@", 
-  "nodesUnder5Minutes"}]], "Input",
- CellChangeTimes->{
-  3.9378265586759386`*^9, {3.9378266286235065`*^9, 3.937826735473211*^9}, {
-   3.937828678998062*^9, 3.937828679348963*^9}, {3.9378287314073257`*^9, 
-   3.937828755275563*^9}},
- CellLabel->
-  "In[222]:=",ExpressionUUID->"977651f6-90b2-4b8b-8151-55b9436c0e97"],
-
-Cell[BoxData[
- RowBox[{"{", 
-  RowBox[{
-  "True", ",", "True", ",", "True", ",", "True", ",", "True", ",", "True", 
-   ",", "True", ",", "True", ",", "True", ",", "True", ",", "True", ",", 
-   "True", ",", "True", ",", "True", ",", "True", ",", "True", ",", "True", 
-   ",", "True", ",", "True", ",", "True", ",", "True", ",", "True", ",", 
-   "True", ",", "True", ",", "True", ",", "True", ",", "True", ",", "True", 
-   ",", "True", ",", "True", ",", "True"}], "}"}]], "Output",
- CellChangeTimes->{{3.9378265566180744`*^9, 3.937826559196129*^9}, {
-   3.937826659916586*^9, 3.937826722054262*^9}, 3.937828462615261*^9, 
-   3.937828679738451*^9, {3.937828734952658*^9, 3.937828755973795*^9}},
- CellLabel->
-  "Out[222]=",ExpressionUUID->"f7a9885e-0ae3-4a30-94f3-969f385ddf3e"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"Head", "[", 
-  TemplateBox[{"0.473383", "\"mi\"", "miles", "\"Miles\""},
-   "Quantity"], "]"}]], "Input",
- CellChangeTimes->{{3.9378308386385517`*^9, 3.9378308451632633`*^9}},
- CellLabel->
-  "In[249]:=",ExpressionUUID->"3dcf8d5d-df18-490d-a8a1-5b98ed5b82b1"],
-
-Cell[BoxData["Quantity"], "Output",
- CellChangeTimes->{3.937830845651587*^9},
- CellLabel->
-  "Out[249]=",ExpressionUUID->"f28d0f6b-90d3-4526-8ae1-682bfba1b407"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{
-  RowBox[{"Select", "[", 
-   RowBox[{"(", 
-    RowBox[{
-     RowBox[{
-      RowBox[{"MemberQ", "[", 
-       RowBox[{"dataVisualization", ",", 
-        RowBox[{"{", 
-         RowBox[{"___", ",", "#"}], "}"}]}], "]"}], "&"}], "/@", 
-     "nodesUnder5Minutes"}], ")"}], "]"}], "[", "dataVisualization", 
-  "]"}]], "Input",
- CellChangeTimes->{{3.937830662297755*^9, 3.937830674064913*^9}},
- CellLabel->
-  "In[248]:=",ExpressionUUID->"e3fa8143-7429-472a-acec-846238676be3"],
-
-Cell[BoxData[
- RowBox[{"{", "}"}]], "Output",
- CellChangeTimes->{3.9378306781836395`*^9},
- CellLabel->
-  "Out[248]=",ExpressionUUID->"738cf68d-f5f1-4c64-8379-360eaebdeaab"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"Select", "[", 
-  RowBox[{"dataVisualization", ",", 
-   RowBox[{"(", 
-    RowBox[{
-     RowBox[{
-      RowBox[{"MemberQ", "[", 
-       RowBox[{"dataVisualization", ",", 
-        RowBox[{"{", 
-         RowBox[{"___", ",", "#"}], "}"}]}], "]"}], "&"}], "/@", 
-     "nodesUnder5Minutes"}], ")"}]}], "]"}]], "Input",
- CellChangeTimes->{{3.9378256496316223`*^9, 3.937825746202147*^9}, {
-  3.937825811591355*^9, 3.937825949590841*^9}, {3.9378260056554146`*^9, 
-  3.937826126016609*^9}, {3.937826161353229*^9, 3.937826168982943*^9}, {
-  3.9378267336204033`*^9, 3.937826777277058*^9}, {3.937826815923559*^9, 
-  3.937826822393299*^9}, {3.937828683604551*^9, 3.9378286837760687`*^9}, {
-  3.9378287247731676`*^9, 3.9378287281402664`*^9}, {3.937828789574569*^9, 
-  3.937828830039978*^9}, {3.937828916500301*^9, 3.9378289218595653`*^9}, {
-  3.937829009068022*^9, 3.9378290116742487`*^9}, {3.937830326131824*^9, 
-  3.937830328505911*^9}},
- CellLabel->
-  "In[245]:=",ExpressionUUID->"8b0d2bc3-adca-469e-b16b-e9f9d5271138"],
-
-Cell[BoxData[
- RowBox[{"{", "}"}]], "Output",
- CellChangeTimes->{
-  3.9378265396466427`*^9, 3.9378267369976254`*^9, {3.93782676890795*^9, 
-   3.9378267777045555`*^9}, 3.9378268168773737`*^9, 3.937827743644882*^9, 
-   3.9378277916299977`*^9, 3.937828458517483*^9, 3.937828684216163*^9, 
-   3.937828728587099*^9, {3.937828764960228*^9, 3.9378288325690575`*^9}, 
-   3.937828918498129*^9, 3.9378290124467525`*^9, 3.9378294939227123`*^9, {
-   3.937830108150524*^9, 3.937830110415676*^9}, 3.937830329153114*^9, 
-   3.9378303832057304`*^9},
- CellLabel->
-  "Out[245]=",ExpressionUUID->"e35eede6-8cd4-4584-905c-210db9817a60"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"Select", "[", 
-  RowBox[{"dataVisualization", ",", 
-   RowBox[{"(", 
-    RowBox[{
-     RowBox[{
-      RowBox[{"MemberQ", "[", 
-       RowBox[{"{", 
-        RowBox[{"_", ",", "#"}], "}"}], "]"}], "&"}], "/@", 
-     "nodesUnder5Minutes"}], ")"}]}], "]"}]], "Input",
- CellChangeTimes->{{3.937830280216322*^9, 3.9378302864129477`*^9}},
- CellLabel->
-  "In[246]:=",ExpressionUUID->"ad0208d7-9bf6-402f-815a-b2870feb6d4b"],
-
-Cell[BoxData[
- RowBox[{"{", "}"}]], "Output",
- CellChangeTimes->{3.9378302908851624`*^9, 3.937830387397867*^9},
- CellLabel->
-  "Out[246]=",ExpressionUUID->"fd2f53dd-a591-4a04-9dd7-d57d60649fc2"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"Cases", "[", 
-  RowBox[{"dataVisualization", ",", 
-   RowBox[{
-    RowBox[{
-     RowBox[{"{", 
-      RowBox[{"_", ",", "#"}], "}"}], "&"}], "/@", " ", 
-    "nodesUnder5Minutes"}]}], "]"}]], "Input",
- CellChangeTimes->{{3.937826300866335*^9, 3.937826434351652*^9}, {
-  3.937830390069103*^9, 3.937830390237118*^9}},
- CellLabel->
-  "In[247]:=",ExpressionUUID->"775777b0-0578-49cf-8237-b32f76fdc2d5"],
-
-Cell[BoxData[
- RowBox[{"{", "}"}]], "Output",
- CellChangeTimes->{{3.937825862291462*^9, 3.937825950031948*^9}, 
-   3.937826022463793*^9, 3.9378260604657593`*^9, {3.9378260977623596`*^9, 
-   3.9378261264825954`*^9}, 3.937826169470167*^9, 3.937826366565588*^9, {
-   3.937826400960358*^9, 3.937826434604105*^9}, {3.937828503459482*^9, 
-   3.9378285215273685`*^9}, 3.9378303906377983`*^9},
- CellLabel->
-  "Out[247]=",ExpressionUUID->"55ef3d50-ce77-4be3-a752-9e3e3f189dfa"]
+Cell[BoxData["24"], "Output",
+ CellChangeTimes->{3.937825230418846*^9, 3.9383662715151653`*^9, 
+  3.939490703971307*^9},
+ CellLabel->"Out[95]=",ExpressionUUID->"9cbf2ef8-46cc-4f10-aee6-1b856e5a8fd0"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -37233,8 +37040,7 @@ Cell[BoxData[
  CellChangeTimes->{{3.938366506949948*^9, 3.938366519198551*^9}, {
   3.938366681528427*^9, 3.938366692288641*^9}, {3.938366762232758*^9, 
   3.938366763304083*^9}},
- CellLabel->
-  "In[172]:=",ExpressionUUID->"4353e9aa-d10f-498f-bca6-439be52a138e"]
+ CellLabel->"In[96]:=",ExpressionUUID->"4353e9aa-d10f-498f-bca6-439be52a138e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -37251,8 +37057,7 @@ Cell[BoxData[
     RowBox[{"distance", "\[Rule]", "searchList"}], "]"}]}], ";"}]], "Input",
  CellChangeTimes->{{3.938366780136925*^9, 3.938366796555493*^9}, {
   3.9383668683537445`*^9, 3.938366872037569*^9}},
- CellLabel->
-  "In[178]:=",ExpressionUUID->"f68392a7-ff57-42f9-b141-ef0ca59cf911"]
+ CellLabel->"In[97]:=",ExpressionUUID->"f68392a7-ff57-42f9-b141-ef0ca59cf911"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -37278,8 +37083,7 @@ Cell[BoxData[
  CellChangeTimes->{
   3.938366750321276*^9, {3.9383668193509674`*^9, 3.938366828336447*^9}, {
    3.938366926157278*^9, 3.9383669519472218`*^9}},
- CellLabel->
-  "In[180]:=",ExpressionUUID->"56d63162-e148-4b7b-a245-1ad55df97d31"],
+ CellLabel->"In[98]:=",ExpressionUUID->"56d63162-e148-4b7b-a245-1ad55df97d31"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -37316,55 +37120,13 @@ Cell[BoxData[
      RowBox[{"35.6990756`", ",", "139.7627397`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
-     RowBox[{"35.6958458`", ",", "139.760131`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958432`", ",", "139.7598728`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6955598`", ",", "139.7609512`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
      RowBox[{"35.6958337`", ",", "139.760434`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6958323`", ",", "139.7603761`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
-     RowBox[{"35.695825`", ",", "139.7594348`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
      RowBox[{"35.6958528`", ",", "139.7605077`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958262`", ",", "139.7595572`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958427`", ",", "139.759977`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958072`", ",", "139.7600433`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958307`", ",", "139.7602753`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.695831`", ",", "139.7602271`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958268`", ",", "139.7595044`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6958268`", ",", "139.7594656`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6955227`", ",", "139.7609973`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6955227`", ",", "139.7609792`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6956719`", ",", "139.7615221`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6997861`", ",", "139.7630639`"}], "}"}], "]"}], ",", 
@@ -37403,12 +37165,6 @@ Cell[BoxData[
      RowBox[{"35.696487`", ",", "139.759272`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
-     RowBox[{"35.6961513`", ",", "139.7588155`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6962909`", ",", "139.7588023`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
      RowBox[{"35.6961814`", ",", "139.7599963`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
@@ -37422,9 +37178,6 @@ Cell[BoxData[
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6963555`", ",", "139.7601175`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6955243`", ",", "139.7609485`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6977032`", ",", "139.7587122`"}], "}"}], "]"}], ",", 
@@ -37454,16 +37207,10 @@ Cell[BoxData[
      RowBox[{"35.6963397`", ",", "139.7626099`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
-     RowBox[{"35.6961967`", ",", "139.7588272`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
      RowBox[{"35.6966339`", ",", "139.7610091`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6965146`", ",", "139.7609581`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6961551`", ",", "139.7589984`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6995872`", ",", "139.7642416`"}], "}"}], "]"}], ",", 
@@ -37550,9 +37297,6 @@ Cell[BoxData[
      RowBox[{"35.6971044`", ",", "139.7581797`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
-     RowBox[{"35.695821`", ",", "139.7597546`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
      RowBox[{"35.6995745`", ",", "139.7636794`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
@@ -37572,15 +37316,6 @@ Cell[BoxData[
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6993169`", ",", "139.7638367`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6974693`", ",", "139.757624`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.6978054`", ",", "139.7574849`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
-     RowBox[{"35.696857`", ",", "139.7579634`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
      RowBox[{"35.6970927`", ",", "139.7586364`"}], "}"}], "]"}], ",", 
@@ -37673,15 +37408,11 @@ Cell[BoxData[
      RowBox[{"35.6994848`", ",", "139.7645322`"}], "}"}], "]"}], ",", 
    RowBox[{"GeoPosition", "[", 
     RowBox[{"{", 
-     RowBox[{"35.6958159`", ",", "139.7593918`"}], "}"}], "]"}], ",", 
-   RowBox[{"GeoPosition", "[", 
-    RowBox[{"{", 
      RowBox[{"35.6995935`", ",", "139.7642062`"}], "}"}], "]"}]}], 
   "}"}]], "Output",
  CellChangeTimes->{{3.938366828741455*^9, 3.9383668493505154`*^9}, {
-  3.938366941451599*^9, 3.9383669525371857`*^9}},
- CellLabel->
-  "Out[180]=",ExpressionUUID->"a1a42dc7-8729-4288-aa56-83558dff6b78"]
+   3.938366941451599*^9, 3.9383669525371857`*^9}, 3.9394907197478456`*^9},
+ CellLabel->"Out[98]=",ExpressionUUID->"6e065b19-78f0-4d1e-a5de-06023ff4a541"]
 }, Open  ]]
 }, Open  ]],
 
@@ -44203,8 +43934,9 @@ A+znZMgaiRByhsfBLsSPu4b53oJ8T6b/Ib5v99MObUJ/OeLgZYD+8j+w+j2g
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1245, 836},
-WindowMargins->{{Automatic, 230}, {Automatic, 15}},
+WindowSize->{1694, 920},
+WindowMargins->{{8, Automatic}, {Automatic, 8}},
+TaggingRules-><|"TryRealOnly" -> False|>,
 FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 16, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"f4eaf46a-8642-412f-883f-d018afaa0931"
@@ -44234,7 +43966,7 @@ Cell[146021, 4121, 225, 5, 27, "CodeText",ExpressionUUID->"a2efdb6e-13ba-468e-9a
 Cell[146249, 4128, 1832, 54, 73, "Input",ExpressionUUID->"7ef82e54-c7a9-4fbb-996c-4cefb147e61f"],
 Cell[CellGroupData[{
 Cell[148106, 4186, 322, 9, 30, "Input",ExpressionUUID->"5b7edac0-19b9-4a26-9052-a219bbc34b6b"],
-Cell[148431, 4197, 9699, 305, 203, "Output",ExpressionUUID->"619fbb8d-af14-40a6-becc-648e890eebdd"]
+Cell[148431, 4197, 9699, 305, 182, "Output",ExpressionUUID->"619fbb8d-af14-40a6-becc-648e890eebdd"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
@@ -44242,11 +43974,11 @@ Cell[158179, 4508, 224, 4, 45, "Subsubsection",ExpressionUUID->"0723a889-e1e4-49
 Cell[158406, 4514, 555, 14, 30, "Input",ExpressionUUID->"8d49c72a-29b5-426b-a2aa-a56144f9024d"],
 Cell[CellGroupData[{
 Cell[158986, 4532, 404, 11, 30, "Input",ExpressionUUID->"c1f923ea-0938-4454-aa8d-339a17e12da9"],
-Cell[159393, 4545, 43537, 870, 2009, "Output",ExpressionUUID->"dd07fce3-83b5-4958-b768-e45f7a53fe6f"]
+Cell[159393, 4545, 43537, 870, 1463, "Output",ExpressionUUID->"dd07fce3-83b5-4958-b768-e45f7a53fe6f"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[202967, 5420, 736, 21, 30, "Input",ExpressionUUID->"7a7d27b1-867f-492e-8d96-6bc550679fbd"],
-Cell[203706, 5443, 1024, 28, 56, "Output",ExpressionUUID->"ddc814bd-b7fa-408e-ac74-c546ce83533b"]
+Cell[203706, 5443, 1024, 28, 34, "Output",ExpressionUUID->"ddc814bd-b7fa-408e-ac74-c546ce83533b"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[204767, 5476, 483, 10, 30, "Input",ExpressionUUID->"c43352b9-05be-4abb-b063-fc67dece617c"],
@@ -44258,245 +43990,216 @@ Cell[411649, 8899, 226, 4, 45, "Subsubsection",ExpressionUUID->"fcced51b-b21b-47
 Cell[411878, 8905, 632, 16, 30, "Input",ExpressionUUID->"15a66865-bbfd-461f-9ced-57ebf0164631"],
 Cell[CellGroupData[{
 Cell[412535, 8925, 646, 17, 30, "Input",ExpressionUUID->"dd62b03d-8ae1-454a-a97c-58ec38aa2a66"],
-Cell[413184, 8944, 61577, 1291, 2479, "Output",ExpressionUUID->"b848a330-22ae-456f-81c6-8ed7fa1e5c44"]
+Cell[413184, 8944, 61577, 1291, 1870, "Output",ExpressionUUID->"b848a330-22ae-456f-81c6-8ed7fa1e5c44"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[474798, 10240, 785, 21, 30, "Input",ExpressionUUID->"6b3324cd-b7b8-4f9d-aa56-edd33b123bb5"],
-Cell[475586, 10263, 392, 9, 28, "Message",ExpressionUUID->"f3107956-ab4b-4f6b-94a7-c87be07b3909"],
-Cell[475981, 10274, 389, 9, 28, "Message",ExpressionUUID->"7c956485-bec0-4ebc-880f-5f234f003c98"],
-Cell[476373, 10285, 390, 9, 28, "Message",ExpressionUUID->"636075eb-f91f-45db-a11c-08549d3d4a51"],
-Cell[476766, 10296, 450, 10, 28, "Message",ExpressionUUID->"6760ae58-a7ec-40b0-918f-1e095eb6a1f9"],
-Cell[477219, 10308, 37386, 656, 227, "Output",ExpressionUUID->"2e441741-40df-455b-8d79-706cb0f4b281"]
+Cell[475586, 10263, 414, 9, 28, "Message",ExpressionUUID->"7884d1d9-679f-4e29-a78a-961beaf9f618"],
+Cell[476003, 10274, 414, 9, 28, "Message",ExpressionUUID->"1cbb859b-dcdf-4604-93f8-1a0b2245311f"],
+Cell[476420, 10285, 414, 9, 28, "Message",ExpressionUUID->"effcce97-b32a-4214-802c-c66975af6086"],
+Cell[476837, 10296, 474, 10, 28, "Message",ExpressionUUID->"24ff02aa-e35f-4f49-8622-7c4aefbc056b"],
+Cell[477314, 10308, 37411, 657, 227, "Output",ExpressionUUID->"85fc3810-cf70-46ae-a1d7-15a05742131b"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[514654, 10970, 219, 4, 45, "Subsubsection",ExpressionUUID->"aa41835d-f2b1-41de-b5a4-7db1c720ad8b"],
-Cell[514876, 10976, 493, 13, 30, "Input",ExpressionUUID->"47ee117e-e3c7-4c0d-afd2-631f78bf0cae"],
+Cell[514774, 10971, 219, 4, 45, "Subsubsection",ExpressionUUID->"aa41835d-f2b1-41de-b5a4-7db1c720ad8b"],
+Cell[514996, 10977, 493, 13, 30, "Input",ExpressionUUID->"47ee117e-e3c7-4c0d-afd2-631f78bf0cae"],
 Cell[CellGroupData[{
-Cell[515394, 10993, 521, 13, 30, "Input",ExpressionUUID->"549654a7-160a-4fa5-9feb-dc52a30de3e5"],
-Cell[515918, 11008, 273, 4, 34, "Output",ExpressionUUID->"9be0121c-3e15-43b4-bb7c-2ed4e97ae1dc"]
+Cell[515514, 10994, 521, 13, 30, "Input",ExpressionUUID->"549654a7-160a-4fa5-9feb-dc52a30de3e5"],
+Cell[516038, 11009, 273, 4, 34, "Output",ExpressionUUID->"9be0121c-3e15-43b4-bb7c-2ed4e97ae1dc"]
 }, Open  ]],
-Cell[516206, 11015, 278, 8, 30, "Input",ExpressionUUID->"27bea95b-bf54-47c7-ab74-90a2ffa1826c"],
-Cell[516487, 11025, 815, 22, 30, "Input",ExpressionUUID->"f3b5658f-361d-45d1-8e17-9de9c97e5143"],
+Cell[516326, 11016, 278, 8, 30, "Input",ExpressionUUID->"27bea95b-bf54-47c7-ab74-90a2ffa1826c"],
+Cell[516607, 11026, 815, 22, 30, "Input",ExpressionUUID->"f3b5658f-361d-45d1-8e17-9de9c97e5143"],
 Cell[CellGroupData[{
-Cell[517327, 11051, 665, 17, 30, "Input",ExpressionUUID->"12d35f2e-1cf7-43a1-9056-093689c73b0a"],
-Cell[517995, 11070, 410504, 6850, 437, "Output",ExpressionUUID->"6c7d37f3-1bc3-40fd-89fe-0200265aaf66"]
+Cell[517447, 11052, 665, 17, 30, "Input",ExpressionUUID->"12d35f2e-1cf7-43a1-9056-093689c73b0a"],
+Cell[518115, 11071, 410504, 6850, 437, "Output",ExpressionUUID->"6c7d37f3-1bc3-40fd-89fe-0200265aaf66"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[928548, 17926, 279, 4, 45, "Subsubsection",ExpressionUUID->"0872de9f-7dff-4175-ac71-412679fd2196"],
+Cell[928668, 17927, 279, 4, 45, "Subsubsection",ExpressionUUID->"0872de9f-7dff-4175-ac71-412679fd2196"],
 Cell[CellGroupData[{
-Cell[928852, 17934, 573, 13, 30, "Input",ExpressionUUID->"c16506e4-8ae6-4908-9b4d-b16b996f66e4"],
-Cell[929428, 17949, 267, 4, 34, "Output",ExpressionUUID->"76905e15-fe8d-4f95-b4bd-7aa64edf809c"]
+Cell[928972, 17935, 573, 13, 30, "Input",ExpressionUUID->"c16506e4-8ae6-4908-9b4d-b16b996f66e4"],
+Cell[929548, 17950, 267, 4, 34, "Output",ExpressionUUID->"76905e15-fe8d-4f95-b4bd-7aa64edf809c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[929732, 17958, 175, 3, 32, "Item",ExpressionUUID->"cb41e1a6-5eef-4f72-a3d0-f6c83c08ca4c"],
-Cell[929910, 17963, 346, 9, 30, "Input",ExpressionUUID->"3a12aaae-d569-410c-a2c8-dda0195645d5"]
+Cell[929852, 17959, 175, 3, 32, "Item",ExpressionUUID->"cb41e1a6-5eef-4f72-a3d0-f6c83c08ca4c"],
+Cell[930030, 17964, 346, 9, 30, "Input",ExpressionUUID->"3a12aaae-d569-410c-a2c8-dda0195645d5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[930293, 17977, 166, 3, 32, "Item",ExpressionUUID->"817805a8-80c0-4709-a19a-fe748be659d4"],
-Cell[930462, 17982, 916, 23, 30, "Input",ExpressionUUID->"4ef6590a-39cd-4bea-90c0-4dfb430c6b14"]
+Cell[930413, 17978, 166, 3, 32, "Item",ExpressionUUID->"817805a8-80c0-4709-a19a-fe748be659d4"],
+Cell[930582, 17983, 916, 23, 30, "Input",ExpressionUUID->"4ef6590a-39cd-4bea-90c0-4dfb430c6b14"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[931415, 18010, 272, 6, 32, "Item",ExpressionUUID->"8f67516e-7906-4249-a153-ba3a150dda18"],
-Cell[931690, 18018, 852, 15, 73, "Input",ExpressionUUID->"6e063295-d8fd-4849-b1ac-11492bc8914e"]
+Cell[931535, 18011, 272, 6, 32, "Item",ExpressionUUID->"8f67516e-7906-4249-a153-ba3a150dda18"],
+Cell[931810, 18019, 852, 15, 52, "Input",ExpressionUUID->"6e063295-d8fd-4849-b1ac-11492bc8914e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[932579, 18038, 178, 3, 32, "Item",ExpressionUUID->"7de15125-edda-4649-bcd9-8813ef97f614"],
-Cell[932760, 18043, 510, 13, 30, "Input",ExpressionUUID->"d7b764fa-22ee-4d11-b1df-a894ad3cd2ba"]
+Cell[932699, 18039, 178, 3, 32, "Item",ExpressionUUID->"7de15125-edda-4649-bcd9-8813ef97f614"],
+Cell[932880, 18044, 510, 13, 30, "Input",ExpressionUUID->"d7b764fa-22ee-4d11-b1df-a894ad3cd2ba"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[933307, 18061, 234, 4, 32, "Item",ExpressionUUID->"683f2afb-cbc4-497f-8e70-67bad75be1f7"],
+Cell[933427, 18062, 234, 4, 32, "Item",ExpressionUUID->"683f2afb-cbc4-497f-8e70-67bad75be1f7"],
 Cell[CellGroupData[{
-Cell[933566, 18069, 419, 9, 30, "Input",ExpressionUUID->"59866034-e704-4629-808f-7b14e72d348b"],
-Cell[933988, 18080, 461, 8, 34, "Output",ExpressionUUID->"db2e1d6a-abca-40af-b2aa-1742a3549b9a"]
+Cell[933686, 18070, 419, 9, 30, "Input",ExpressionUUID->"59866034-e704-4629-808f-7b14e72d348b"],
+Cell[934108, 18081, 461, 8, 34, "Output",ExpressionUUID->"db2e1d6a-abca-40af-b2aa-1742a3549b9a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[934486, 18093, 363, 9, 30, "Input",ExpressionUUID->"5a0da897-0153-49e9-b559-bd3693af9575"],
-Cell[934852, 18104, 268, 5, 34, "Output",ExpressionUUID->"1df657d1-966e-4f02-975b-399d4eb6b16a"]
+Cell[934606, 18094, 363, 9, 30, "Input",ExpressionUUID->"5a0da897-0153-49e9-b559-bd3693af9575"],
+Cell[934972, 18105, 268, 5, 34, "Output",ExpressionUUID->"1df657d1-966e-4f02-975b-399d4eb6b16a"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[935169, 18115, 170, 3, 32, "Item",ExpressionUUID->"ef511195-6d6c-4f83-8782-6cd8f177fd97"],
-Cell[935342, 18120, 551, 13, 30, "Input",ExpressionUUID->"eb7aefd7-f030-4bd0-923d-42edfc48959a"]
+Cell[935289, 18116, 170, 3, 32, "Item",ExpressionUUID->"ef511195-6d6c-4f83-8782-6cd8f177fd97"],
+Cell[935462, 18121, 551, 13, 30, "Input",ExpressionUUID->"eb7aefd7-f030-4bd0-923d-42edfc48959a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[935930, 18138, 193, 3, 32, "Item",ExpressionUUID->"a47f54c3-d521-4adc-bde6-a654bea182b2"],
+Cell[936050, 18139, 193, 3, 32, "Item",ExpressionUUID->"a47f54c3-d521-4adc-bde6-a654bea182b2"],
 Cell[CellGroupData[{
-Cell[936148, 18145, 612, 13, 30, "Input",ExpressionUUID->"b19be485-a4b7-4f85-a197-29d9d3095bf9"],
-Cell[936763, 18160, 6580, 141, 280, "Output",ExpressionUUID->"8e1c60a4-370f-43a7-8c88-1a168f0194b7"]
+Cell[936268, 18146, 612, 13, 30, "Input",ExpressionUUID->"b19be485-a4b7-4f85-a197-29d9d3095bf9"],
+Cell[936883, 18161, 6580, 141, 241, "Output",ExpressionUUID->"8e1c60a4-370f-43a7-8c88-1a168f0194b7"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[943392, 18307, 157, 3, 32, "Item",ExpressionUUID->"d3a6756d-6699-48ae-afdf-ab3389203ec6"],
+Cell[943512, 18308, 157, 3, 32, "Item",ExpressionUUID->"d3a6756d-6699-48ae-afdf-ab3389203ec6"],
 Cell[CellGroupData[{
-Cell[943574, 18314, 1125, 20, 30, "Input",ExpressionUUID->"9bdc000e-0c52-48e8-814a-363f93c3a002"],
-Cell[944702, 18336, 1539, 34, 56, "Output",ExpressionUUID->"a01f9127-67e8-4927-bd76-b78cfec39af8"]
+Cell[943694, 18315, 1125, 20, 30, "Input",ExpressionUUID->"9bdc000e-0c52-48e8-814a-363f93c3a002"],
+Cell[944822, 18337, 1539, 34, 56, "Output",ExpressionUUID->"a01f9127-67e8-4927-bd76-b78cfec39af8"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[946290, 18376, 181, 3, 32, "Item",ExpressionUUID->"620a0116-0ad8-48ea-8285-8edd8c8a6250"],
+Cell[946410, 18377, 181, 3, 32, "Item",ExpressionUUID->"620a0116-0ad8-48ea-8285-8edd8c8a6250"],
 Cell[CellGroupData[{
-Cell[946496, 18383, 321, 5, 30, "Input",ExpressionUUID->"00894d01-348c-4b5e-b7e4-1770aa59ef1b"],
-Cell[946820, 18390, 2171, 53, 98, "Output",ExpressionUUID->"64732887-8ae5-452e-b99e-19513de2af80"]
+Cell[946616, 18384, 321, 5, 30, "Input",ExpressionUUID->"00894d01-348c-4b5e-b7e4-1770aa59ef1b"],
+Cell[946940, 18391, 2171, 53, 77, "Output",ExpressionUUID->"64732887-8ae5-452e-b99e-19513de2af80"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[949040, 18449, 200, 3, 32, "Item",ExpressionUUID->"4d042326-800f-4275-b0f1-f98ed1d630e2"],
+Cell[949160, 18450, 200, 3, 32, "Item",ExpressionUUID->"4d042326-800f-4275-b0f1-f98ed1d630e2"],
 Cell[CellGroupData[{
-Cell[949265, 18456, 806, 19, 30, "Input",ExpressionUUID->"e04ecc39-d69d-446d-993a-dd6be4c7103e"],
-Cell[950074, 18477, 386422, 6406, 437, "Output",ExpressionUUID->"369cdacb-5569-4668-a4cd-bee4b4a70f62"]
+Cell[949385, 18457, 806, 19, 30, "Input",ExpressionUUID->"e04ecc39-d69d-446d-993a-dd6be4c7103e"],
+Cell[950194, 18478, 386422, 6406, 437, "Output",ExpressionUUID->"369cdacb-5569-4668-a4cd-bee4b4a70f62"]
 }, Open  ]]
 }, Open  ]],
-Cell[1336523, 24887, 250, 4, 32, "Item",ExpressionUUID->"21f3b991-f5da-432b-ac91-164cf9a0b062"]
+Cell[1336643, 24888, 250, 4, 32, "Item",ExpressionUUID->"21f3b991-f5da-432b-ac91-164cf9a0b062"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1336810, 24896, 179, 3, 45, "Subsubsection",ExpressionUUID->"f2654f19-433b-44f3-a2a0-96098b12e4c9"],
+Cell[1336930, 24897, 179, 3, 45, "Subsubsection",ExpressionUUID->"f2654f19-433b-44f3-a2a0-96098b12e4c9"],
 Cell[CellGroupData[{
-Cell[1337014, 24903, 542, 13, 30, "Input",ExpressionUUID->"822a2d22-96ab-45e8-a3a1-bee44c1aad33"],
-Cell[1337559, 24918, 200, 3, 34, "Output",ExpressionUUID->"d3756e7f-e891-49a6-aa8b-b3f02a3341ae"]
+Cell[1337134, 24904, 542, 13, 30, "Input",ExpressionUUID->"822a2d22-96ab-45e8-a3a1-bee44c1aad33"],
+Cell[1337679, 24919, 221, 3, 34, "Output",ExpressionUUID->"78d4c457-50c3-412c-b0c8-1a62396a4b2c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1337796, 24926, 263, 4, 30, "Input",ExpressionUUID->"fcf2c909-9caf-4ef3-9390-9117132f2869"],
-Cell[1338062, 24932, 275, 5, 34, "Output",ExpressionUUID->"783165a2-ad0a-4b23-ad27-13bc61c862f2"]
+Cell[1337937, 24927, 263, 4, 30, "Input",ExpressionUUID->"fcf2c909-9caf-4ef3-9390-9117132f2869"],
+Cell[1338203, 24933, 275, 5, 34, "Output",ExpressionUUID->"783165a2-ad0a-4b23-ad27-13bc61c862f2"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1338374, 24942, 700, 18, 30, "Input",ExpressionUUID->"3463b42f-6613-446d-a879-96ae50fb3ee8"],
-Cell[1339077, 24962, 907, 24, 56, "Output",ExpressionUUID->"74e453ad-a2e8-46d6-b74b-fe248774d808"]
+Cell[1338515, 24943, 700, 18, 30, "Input",ExpressionUUID->"3463b42f-6613-446d-a879-96ae50fb3ee8"],
+Cell[1339218, 24963, 933, 25, 34, "Output",ExpressionUUID->"38dbf3f5-77ed-4e7d-8dae-0d5db62022d2"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1340021, 24991, 657, 16, 30, "Input",ExpressionUUID->"c590f985-5d68-469e-9a31-0b9a9ccd0a4d"],
-Cell[1340681, 25009, 168335, 2793, 254, "Output",ExpressionUUID->"47ab8799-8370-4126-ae9a-a3aa3ddfa398"]
+Cell[1340188, 24993, 657, 16, 30, "Input",ExpressionUUID->"c590f985-5d68-469e-9a31-0b9a9ccd0a4d"],
+Cell[1340848, 25011, 168335, 2793, 254, "Output",ExpressionUUID->"47ab8799-8370-4126-ae9a-a3aa3ddfa398"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1509053, 27807, 585, 14, 30, "Input",ExpressionUUID->"1c633c62-2cf7-4d36-b1b9-f7ae1b31379d"],
-Cell[1509641, 27823, 200, 3, 34, "Output",ExpressionUUID->"632bc7cb-b45d-4d2c-967b-faae1c6da768"]
+Cell[1509220, 27809, 585, 14, 30, "Input",ExpressionUUID->"1c633c62-2cf7-4d36-b1b9-f7ae1b31379d"],
+Cell[1509808, 27825, 226, 4, 34, "Output",ExpressionUUID->"3e8b6a39-37fe-44da-a536-c4d891ff1745"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1509878, 27831, 787, 20, 30, "Input",ExpressionUUID->"a2eb5458-9c33-41ec-9a42-cadd7d4b3641"],
-Cell[1510668, 27853, 166, 3, 34, "Output",ExpressionUUID->"033eb815-54e4-4881-88ed-329956886241"]
+Cell[1510071, 27834, 787, 20, 30, "Input",ExpressionUUID->"a2eb5458-9c33-41ec-9a42-cadd7d4b3641"],
+Cell[1510861, 27856, 190, 3, 34, "Output",ExpressionUUID->"cc46380d-0184-498d-9340-805ef7de12c0"]
 }, Open  ]],
-Cell[1510849, 27859, 255, 6, 35, "Text",ExpressionUUID->"a71e2129-6a48-4dde-b1fd-a3eb456bca6d"],
+Cell[1511066, 27862, 255, 6, 35, "Text",ExpressionUUID->"a71e2129-6a48-4dde-b1fd-a3eb456bca6d"],
 Cell[CellGroupData[{
-Cell[1511129, 27869, 680, 17, 52, "Input",ExpressionUUID->"6799ee5a-be70-4ac5-b08e-0dcfbd4e7330"],
-Cell[1511812, 27888, 4094, 86, 129, "Output",ExpressionUUID->"35b83828-c46f-4892-bab9-c94c04c1504e"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1515943, 27979, 485, 12, 30, "Input",ExpressionUUID->"b5e19c17-456d-469c-a081-2738b3f54cc7"],
-Cell[1516431, 27993, 149, 2, 34, "Output",ExpressionUUID->"52c7b9e7-2a6d-4cd0-a4b7-f264326bd60c"]
-}, Open  ]]
+Cell[1511346, 27872, 680, 17, 52, "Input",ExpressionUUID->"6799ee5a-be70-4ac5-b08e-0dcfbd4e7330"],
+Cell[1512029, 27891, 4382, 94, 129, "Output",ExpressionUUID->"db0d828e-4cd7-4b0b-b1f4-3b825d96a969"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1516629, 28001, 378, 7, 45, "Subsubsection",ExpressionUUID->"8fababf9-e30f-4743-9b60-aa4bcc7ad71a"],
-Cell[CellGroupData[{
-Cell[1517032, 28012, 1947, 51, 115, "Input",ExpressionUUID->"a97416a0-8243-45a1-a257-79c283ab491a"],
-Cell[1518982, 28065, 357, 7, 36, "Output",ExpressionUUID->"553eb01d-b85b-474e-9dcf-be449520fd0f"],
-Cell[1519342, 28074, 356, 7, 36, "Output",ExpressionUUID->"d17705b6-4c26-43c3-81cf-4e404df8fc41"],
-Cell[1519701, 28083, 342, 7, 36, "Output",ExpressionUUID->"f1180f63-275f-4f9c-bb3a-e87922ed6e91"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1520080, 28095, 256, 6, 32, "Item",ExpressionUUID->"b05b0f0d-f323-4570-bfe6-9dc0b2dac0b7"],
-Cell[1520339, 28103, 756, 18, 52, "Input",ExpressionUUID->"5ebc01ca-99dc-4318-a07a-aec6cb610e73"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1521132, 28126, 240, 6, 32, "Item",ExpressionUUID->"45647669-410e-47b5-b527-af2d72a6f0ec"],
-Cell[CellGroupData[{
-Cell[1521397, 28136, 738, 19, 52, "Input",ExpressionUUID->"f6634373-8e8f-4a40-b8f5-7c3e47cc63dd"],
-Cell[1522138, 28157, 379351, 6280, 437, "Output",ExpressionUUID->"9cd728ab-8031-475d-bf6f-8c104463b2ac"]
-}, Open  ]],
-Cell[1901504, 34440, 412, 11, 30, "Input",ExpressionUUID->"4e60490f-60fc-4565-a90e-fa1b2812e2c7"],
-Cell[1901919, 34453, 428, 11, 30, "Input",ExpressionUUID->"1e097f2e-1fd7-42f5-8b5e-b5e320fbe7dc"],
-Cell[CellGroupData[{
-Cell[1902372, 34468, 245, 5, 30, "Input",ExpressionUUID->"078687b9-2dd9-4f79-8492-55e26ebe6cfb"],
-Cell[1902620, 34475, 203, 4, 34, "Output",ExpressionUUID->"178dd094-5f6a-465e-83a1-faf581b0d88b"]
+Cell[1516448, 27990, 485, 12, 30, "Input",ExpressionUUID->"b5e19c17-456d-469c-a081-2738b3f54cc7"],
+Cell[1516936, 28004, 149, 2, 34, "Output",ExpressionUUID->"52c7b9e7-2a6d-4cd0-a4b7-f264326bd60c"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1902872, 34485, 173, 3, 32, "Item",ExpressionUUID->"f1300e4f-c3ad-407c-b031-ec9b88be0d26"],
+Cell[1517134, 28012, 378, 7, 45, "Subsubsection",ExpressionUUID->"8fababf9-e30f-4743-9b60-aa4bcc7ad71a"],
 Cell[CellGroupData[{
-Cell[1903070, 34492, 248, 5, 30, "Input",ExpressionUUID->"4c05503a-65bc-41eb-a14b-9fbbfa6016cd"],
-Cell[1903321, 34499, 66285, 1800, 6563, "Output",ExpressionUUID->"37a090af-80ea-4fe4-a14b-d9db5d842327"]
+Cell[1517537, 28023, 1941, 51, 94, "Input",ExpressionUUID->"a97416a0-8243-45a1-a257-79c283ab491a"],
+Cell[1519481, 28076, 378, 7, 36, "Output",ExpressionUUID->"f932387b-ea3e-4c35-b630-b8782be5a37c"],
+Cell[1519862, 28085, 378, 7, 36, "Output",ExpressionUUID->"0ce812dd-7fc9-463e-9bce-e5390059fb39"],
+Cell[1520243, 28094, 364, 7, 36, "Output",ExpressionUUID->"bc2b069b-7bb0-4cea-88c2-7e126e762137"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1969643, 36304, 725, 17, 30, "Input",ExpressionUUID->"3448559f-da6b-4e36-91a9-765503128e9b"],
-Cell[1970371, 36323, 12561, 270, 281, "Output",ExpressionUUID->"9ec4384a-be97-45b3-a797-4087180e36a4"]
+Cell[1520644, 28106, 256, 6, 32, "Item",ExpressionUUID->"b05b0f0d-f323-4570-bfe6-9dc0b2dac0b7"],
+Cell[1520903, 28114, 752, 17, 52, "Input",ExpressionUUID->"5ebc01ca-99dc-4318-a07a-aec6cb610e73"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1521692, 28136, 240, 6, 32, "Item",ExpressionUUID->"45647669-410e-47b5-b527-af2d72a6f0ec"],
+Cell[CellGroupData[{
+Cell[1521957, 28146, 738, 19, 52, "Input",ExpressionUUID->"f6634373-8e8f-4a40-b8f5-7c3e47cc63dd"],
+Cell[1522698, 28167, 379351, 6280, 437, "Output",ExpressionUUID->"9cd728ab-8031-475d-bf6f-8c104463b2ac"]
+}, Open  ]],
+Cell[1902064, 34450, 408, 10, 30, "Input",ExpressionUUID->"4e60490f-60fc-4565-a90e-fa1b2812e2c7"],
+Cell[1902475, 34462, 424, 10, 30, "Input",ExpressionUUID->"1e097f2e-1fd7-42f5-8b5e-b5e320fbe7dc"],
+Cell[CellGroupData[{
+Cell[1902924, 34476, 241, 4, 30, "Input",ExpressionUUID->"078687b9-2dd9-4f79-8492-55e26ebe6cfb"],
+Cell[1903168, 34482, 248, 4, 34, "Output",ExpressionUUID->"71f81284-a0a2-4053-9e31-33e2da444350"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1982981, 36599, 186, 3, 32, "Item",ExpressionUUID->"288f25f4-ab2f-41b2-97d5-fac7fa5dfebb"],
+Cell[1903465, 34492, 173, 3, 32, "Item",ExpressionUUID->"f1300e4f-c3ad-407c-b031-ec9b88be0d26"],
 Cell[CellGroupData[{
-Cell[1983192, 36606, 594, 15, 52, "Input",ExpressionUUID->"5aae94e0-25f1-4a5e-b825-10937e6409a9"],
-Cell[1983789, 36623, 13030, 274, 303, "Output",ExpressionUUID->"8b9696fe-4979-4a12-b67e-1652d042738e"],
-Cell[1996822, 36899, 3270, 70, 83, "Output",ExpressionUUID->"bd555096-f840-4992-8f80-1ed1cd20790c"]
+Cell[1903663, 34499, 248, 5, 30, "Input",ExpressionUUID->"4c05503a-65bc-41eb-a14b-9fbbfa6016cd"],
+Cell[1903914, 34506, 66285, 1800, 6563, "Output",ExpressionUUID->"37a090af-80ea-4fe4-a14b-d9db5d842327"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1970236, 36311, 721, 16, 30, "Input",ExpressionUUID->"3448559f-da6b-4e36-91a9-765503128e9b"],
+Cell[1970960, 36329, 10319, 222, 171, "Output",ExpressionUUID->"138a5480-beaf-46ab-8f5b-e2924f8e605c"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2000141, 36975, 703, 13, 53, "Item",ExpressionUUID->"93436377-f366-4b73-8d5c-8adfff897544"],
+Cell[1981328, 36557, 186, 3, 32, "Item",ExpressionUUID->"288f25f4-ab2f-41b2-97d5-fac7fa5dfebb"],
 Cell[CellGroupData[{
-Cell[2000869, 36992, 396, 8, 30, "Input",ExpressionUUID->"b88b3e71-cefb-458a-96b1-840f690fe5fd"],
-Cell[2001268, 37002, 223, 4, 34, "Output",ExpressionUUID->"976f09d3-e3a5-430a-857b-84365fb33520"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2001528, 37011, 452, 10, 52, "Input",ExpressionUUID->"980cdaf5-e2ea-4c70-bd90-0dfc394d3ca5"],
-Cell[2001983, 37023, 179, 3, 34, "Output",ExpressionUUID->"9b3ddb4f-b6a0-41fd-b1ff-39b052ce7334"],
-Cell[2002165, 37028, 178, 3, 34, "Output",ExpressionUUID->"9208f86f-e9a4-4b82-bc9c-d238e93d0c70"]
+Cell[1981539, 36564, 590, 14, 52, "Input",ExpressionUUID->"5aae94e0-25f1-4a5e-b825-10937e6409a9"],
+Cell[1982132, 36580, 16115, 337, 259, "Output",ExpressionUUID->"810862de-806c-47b1-abb1-dedef784e1f1"],
+Cell[1998250, 36919, 2532, 53, 62, "Output",ExpressionUUID->"04677ca1-0945-443b-b345-8ec444a49749"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2002392, 37037, 403, 8, 53, "Item",ExpressionUUID->"27f560b7-c5b2-4903-85b8-612b7290252b"],
-Cell[2002798, 37047, 301, 9, 30, "Input",ExpressionUUID->"977374ab-ac1a-4748-8d96-cf4ca4360001"],
-Cell[2003102, 37058, 257, 5, 30, "Input",ExpressionUUID->"ac8ef707-91ac-47f4-8fa6-5f3edbe50fe3"],
+Cell[2000831, 36978, 703, 13, 53, "Item",ExpressionUUID->"93436377-f366-4b73-8d5c-8adfff897544"],
 Cell[CellGroupData[{
-Cell[2003384, 37067, 497, 13, 30, "Input",ExpressionUUID->"977651f6-90b2-4b8b-8151-55b9436c0e97"],
-Cell[2003884, 37082, 774, 13, 56, "Output",ExpressionUUID->"f7a9885e-0ae3-4a30-94f3-969f385ddf3e"]
+Cell[2001559, 36995, 392, 7, 30, "Input",ExpressionUUID->"b88b3e71-cefb-458a-96b1-840f690fe5fd"],
+Cell[2001954, 37004, 241, 3, 34, "Output",ExpressionUUID->"741d0387-63d1-4317-b78c-4b059ada69e1"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2004695, 37100, 282, 6, 34, "Input",ExpressionUUID->"3dcf8d5d-df18-490d-a8a1-5b98ed5b82b1"],
-Cell[2004980, 37108, 160, 3, 34, "Output",ExpressionUUID->"f28d0f6b-90d3-4526-8ae1-682bfba1b407"]
+Cell[2002232, 37012, 448, 9, 52, "Input",ExpressionUUID->"980cdaf5-e2ea-4c70-bd90-0dfc394d3ca5"],
+Cell[2002683, 37023, 199, 3, 34, "Output",ExpressionUUID->"1be359a5-200a-4c02-9b39-2fdb449eb7d9"],
+Cell[2002885, 37028, 199, 3, 34, "Output",ExpressionUUID->"9cbf2ef8-46cc-4f10-aee6-1b856e5a8fd0"]
+}, Open  ]],
+Cell[2003099, 37034, 415, 8, 30, "Input",ExpressionUUID->"4353e9aa-d10f-498f-bca6-439be52a138e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2005177, 37116, 492, 14, 30, "Input",ExpressionUUID->"e3fa8143-7429-472a-acec-846238676be3"],
-Cell[2005672, 37132, 172, 4, 34, "Output",ExpressionUUID->"738cf68d-f5f1-4c64-8379-360eaebdeaab"]
+Cell[2003551, 37047, 190, 3, 32, "Item",ExpressionUUID->"29c43575-5d6b-4edd-b13a-aed3b0be3370"],
+Cell[2003744, 37052, 377, 7, 30, "Input",ExpressionUUID->"f68392a7-ff57-42f9-b141-ef0ca59cf911"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2005881, 37141, 1030, 21, 30, "Input",ExpressionUUID->"8b0d2bc3-adca-469e-b16b-e9f9d5271138"],
-Cell[2006914, 37164, 616, 11, 34, "Output",ExpressionUUID->"e35eede6-8cd4-4584-905c-210db9817a60"]
-}, Open  ]],
+Cell[2004158, 37064, 190, 3, 32, "Item",ExpressionUUID->"d69c2d09-e0cf-48b9-a2f1-f6012db46483"],
+Cell[2004351, 37069, 154, 3, 30, "Input",ExpressionUUID->"30b5b229-56ec-49bd-a3a2-90f516dcd966"],
 Cell[CellGroupData[{
-Cell[2007567, 37180, 438, 12, 30, "Input",ExpressionUUID->"ad0208d7-9bf6-402f-815a-b2870feb6d4b"],
-Cell[2008008, 37194, 194, 4, 34, "Output",ExpressionUUID->"fd2f53dd-a591-4a04-9dd7-d57d60649fc2"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2008239, 37203, 420, 11, 30, "Input",ExpressionUUID->"775777b0-0578-49cf-8237-b32f76fdc2d5"],
-Cell[2008662, 37216, 468, 8, 34, "Output",ExpressionUUID->"55ef3d50-ce77-4be3-a752-9e3e3f189dfa"]
-}, Open  ]],
-Cell[2009145, 37227, 419, 9, 30, "Input",ExpressionUUID->"4353e9aa-d10f-498f-bca6-439be52a138e"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2009601, 37241, 190, 3, 32, "Item",ExpressionUUID->"29c43575-5d6b-4edd-b13a-aed3b0be3370"],
-Cell[2009794, 37246, 381, 8, 30, "Input",ExpressionUUID->"f68392a7-ff57-42f9-b141-ef0ca59cf911"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2010212, 37259, 190, 3, 32, "Item",ExpressionUUID->"d69c2d09-e0cf-48b9-a2f1-f6012db46483"],
-Cell[2010405, 37264, 154, 3, 30, "Input",ExpressionUUID->"30b5b229-56ec-49bd-a3a2-90f516dcd966"],
-Cell[CellGroupData[{
-Cell[2010584, 37271, 438, 10, 30, "Input",ExpressionUUID->"56d63162-e148-4b7b-a245-1ad55df97d31"],
-Cell[2011025, 37283, 16077, 400, 707, "Output",ExpressionUUID->"a1a42dc7-8729-4288-aa56-83558dff6b78"]
+Cell[2004530, 37076, 434, 9, 30, "Input",ExpressionUUID->"56d63162-e148-4b7b-a245-1ad55df97d31"],
+Cell[2004967, 37087, 13201, 327, 413, "Output",ExpressionUUID->"6e065b19-78f0-4d1e-a5de-06023ff4a541"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2027151, 37689, 286, 7, 32, "Item",ExpressionUUID->"aa837525-1c4e-4104-a328-e1408136669e"],
+Cell[2018217, 37420, 286, 7, 32, "Item",ExpressionUUID->"aa837525-1c4e-4104-a328-e1408136669e"],
 Cell[CellGroupData[{
-Cell[2027462, 37700, 255, 5, 30, "Input",ExpressionUUID->"93c7fda6-d0ff-496d-8b27-ee2ed96ffadb"],
-Cell[2027720, 37707, 179, 3, 34, "Output",ExpressionUUID->"1ef06a05-5065-400e-8ec7-04349e386e1d"]
+Cell[2018528, 37431, 255, 5, 30, "Input",ExpressionUUID->"93c7fda6-d0ff-496d-8b27-ee2ed96ffadb"],
+Cell[2018786, 37438, 179, 3, 34, "Output",ExpressionUUID->"1ef06a05-5065-400e-8ec7-04349e386e1d"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2027948, 37716, 161, 3, 32, "Item",ExpressionUUID->"620b897e-4460-462a-a89e-b569dd4bea18"],
-Cell[2028112, 37721, 154, 3, 30, "Input",ExpressionUUID->"036d3998-cbe3-4295-b98d-d94de402ea7f"],
+Cell[2019014, 37447, 161, 3, 32, "Item",ExpressionUUID->"620b897e-4460-462a-a89e-b569dd4bea18"],
+Cell[2019178, 37452, 154, 3, 30, "Input",ExpressionUUID->"036d3998-cbe3-4295-b98d-d94de402ea7f"],
 Cell[CellGroupData[{
-Cell[2028291, 37728, 801, 20, 52, "Input",ExpressionUUID->"95e432ee-d6cc-48b7-8595-e9a15785bf83"],
-Cell[2029095, 37750, 388206, 6450, 437, "Output",ExpressionUUID->"a96333db-57dc-4721-9e84-c3367cceed81"]
+Cell[2019357, 37459, 801, 20, 30, "Input",ExpressionUUID->"95e432ee-d6cc-48b7-8595-e9a15785bf83"],
+Cell[2020161, 37481, 388206, 6450, 437, "Output",ExpressionUUID->"a96333db-57dc-4721-9e84-c3367cceed81"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
