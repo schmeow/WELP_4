@@ -14563,7 +14563,7 @@ $CellContext`y2$$],
 },
 WindowSize->{Full, Full},
 WindowMargins->{{136, Automatic}, {-34, Automatic}},
-FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 16, 2023)",
+FrontEndVersion->"14.0 for Mac OS X x86 (64-bit) (December 16, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"98ff3473-819d-4ce2-b996-a15d11d9c3fb"
 ]
